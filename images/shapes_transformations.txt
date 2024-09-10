@@ -1,0 +1,6000 @@
+Problem 1:
+Shape A1: rectangle, Shape A2: star
+Shape C1: pentagon, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 2:
+Shape A1: hexagon, Shape A2: diamond
+Shape C1: rectangle, Shape C2: arrow
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 3:
+Shape A1: triangle, Shape A2: star
+Shape C1: pentagon, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: flip_fill
+
+Problem 4:
+Shape A1: diamond, Shape A2: ellipse
+Shape C1: star, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 5:
+Shape A1: pentagon, Shape A2: arrow
+Shape C1: diamond, Shape C2: star
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 6:
+Shape A1: hexagon, Shape A2: plus
+Shape C1: rectangle, Shape C2: star
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 7:
+Shape A1: diamond, Shape A2: rectangle
+Shape C1: plus, Shape C2: arrow
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 8:
+Shape A1: triangle, Shape A2: pentagon
+Shape C1: star, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 9:
+Shape A1: hexagon, Shape A2: star
+Shape C1: pentagon, Shape C2: diamond
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 10:
+Shape A1: arrow, Shape A2: diamond
+Shape C1: triangle, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 11:
+Shape A1: pentagon, Shape A2: diamond
+Shape C1: triangle, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 12:
+Shape A1: hexagon, Shape A2: diamond
+Shape C1: triangle, Shape C2: plus
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 13:
+Shape A1: diamond, Shape A2: arrow
+Shape C1: triangle, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 14:
+Shape A1: ellipse, Shape A2: hexagon
+Shape C1: plus, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 15:
+Shape A1: plus, Shape A2: hexagon
+Shape C1: diamond, Shape C2: ellipse
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 16:
+Shape A1: pentagon, Shape A2: ellipse
+Shape C1: arrow, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 17:
+Shape A1: diamond, Shape A2: hexagon
+Shape C1: triangle, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 18:
+Shape A1: pentagon, Shape A2: diamond
+Shape C1: arrow, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 19:
+Shape A1: triangle, Shape A2: pentagon
+Shape C1: star, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 20:
+Shape A1: hexagon, Shape A2: diamond
+Shape C1: arrow, Shape C2: plus
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 21:
+Shape A1: plus, Shape A2: rectangle
+Shape C1: pentagon, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 22:
+Shape A1: star, Shape A2: arrow
+Shape C1: diamond, Shape C2: rectangle
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 23:
+Shape A1: ellipse, Shape A2: plus
+Shape C1: hexagon, Shape C2: arrow
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 24:
+Shape A1: ellipse, Shape A2: hexagon
+Shape C1: arrow, Shape C2: triangle
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 25:
+Shape A1: ellipse, Shape A2: plus
+Shape C1: pentagon, Shape C2: star
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 26:
+Shape A1: arrow, Shape A2: hexagon
+Shape C1: rectangle, Shape C2: triangle
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 27:
+Shape A1: plus, Shape A2: diamond
+Shape C1: star, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 28:
+Shape A1: plus, Shape A2: triangle
+Shape C1: hexagon, Shape C2: star
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 29:
+Shape A1: plus, Shape A2: hexagon
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 30:
+Shape A1: hexagon, Shape A2: diamond
+Shape C1: triangle, Shape C2: ellipse
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 31:
+Shape A1: arrow, Shape A2: plus
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 32:
+Shape A1: star, Shape A2: arrow
+Shape C1: plus, Shape C2: triangle
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 33:
+Shape A1: arrow, Shape A2: ellipse
+Shape C1: hexagon, Shape C2: star
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 34:
+Shape A1: pentagon, Shape A2: hexagon
+Shape C1: arrow, Shape C2: star
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 35:
+Shape A1: arrow, Shape A2: hexagon
+Shape C1: rectangle, Shape C2: triangle
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 36:
+Shape A1: pentagon, Shape A2: arrow
+Shape C1: ellipse, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 37:
+Shape A1: triangle, Shape A2: rectangle
+Shape C1: star, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 38:
+Shape A1: triangle, Shape A2: plus
+Shape C1: diamond, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 39:
+Shape A1: ellipse, Shape A2: hexagon
+Shape C1: triangle, Shape C2: plus
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_up
+
+Problem 40:
+Shape A1: diamond, Shape A2: ellipse
+Shape C1: rectangle, Shape C2: pentagon
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 41:
+Shape A1: plus, Shape A2: pentagon
+Shape C1: star, Shape C2: diamond
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 42:
+Shape A1: rectangle, Shape A2: pentagon
+Shape C1: diamond, Shape C2: arrow
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_down
+
+Problem 43:
+Shape A1: star, Shape A2: arrow
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 44:
+Shape A1: ellipse, Shape A2: arrow
+Shape C1: rectangle, Shape C2: triangle
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 45:
+Shape A1: pentagon, Shape A2: hexagon
+Shape C1: ellipse, Shape C2: diamond
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 46:
+Shape A1: star, Shape A2: plus
+Shape C1: pentagon, Shape C2: hexagon
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 47:
+Shape A1: triangle, Shape A2: pentagon
+Shape C1: diamond, Shape C2: arrow
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 48:
+Shape A1: hexagon, Shape A2: plus
+Shape C1: diamond, Shape C2: pentagon
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 49:
+Shape A1: pentagon, Shape A2: hexagon
+Shape C1: plus, Shape C2: rectangle
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 50:
+Shape A1: hexagon, Shape A2: triangle
+Shape C1: diamond, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 51:
+Shape A1: arrow, Shape A2: ellipse
+Shape C1: star, Shape C2: plus
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 52:
+Shape A1: triangle, Shape A2: rectangle
+Shape C1: hexagon, Shape C2: ellipse
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 53:
+Shape A1: plus, Shape A2: pentagon
+Shape C1: ellipse, Shape C2: triangle
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 54:
+Shape A1: pentagon, Shape A2: diamond
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 55:
+Shape A1: ellipse, Shape A2: plus
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 56:
+Shape A1: diamond, Shape A2: ellipse
+Shape C1: arrow, Shape C2: triangle
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 57:
+Shape A1: hexagon, Shape A2: diamond
+Shape C1: rectangle, Shape C2: ellipse
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 58:
+Shape A1: diamond, Shape A2: hexagon
+Shape C1: arrow, Shape C2: plus
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 59:
+Shape A1: diamond, Shape A2: ellipse
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 60:
+Shape A1: ellipse, Shape A2: rectangle
+Shape C1: plus, Shape C2: triangle
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 61:
+Shape A1: triangle, Shape A2: hexagon
+Shape C1: ellipse, Shape C2: diamond
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 62:
+Shape A1: plus, Shape A2: pentagon
+Shape C1: arrow, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 63:
+Shape A1: star, Shape A2: arrow
+Shape C1: ellipse, Shape C2: plus
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 64:
+Shape A1: triangle, Shape A2: diamond
+Shape C1: star, Shape C2: plus
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 65:
+Shape A1: rectangle, Shape A2: star
+Shape C1: triangle, Shape C2: pentagon
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 66:
+Shape A1: triangle, Shape A2: rectangle
+Shape C1: pentagon, Shape C2: diamond
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 67:
+Shape A1: hexagon, Shape A2: arrow
+Shape C1: pentagon, Shape C2: triangle
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 68:
+Shape A1: ellipse, Shape A2: hexagon
+Shape C1: star, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 69:
+Shape A1: hexagon, Shape A2: pentagon
+Shape C1: rectangle, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 70:
+Shape A1: ellipse, Shape A2: triangle
+Shape C1: diamond, Shape C2: arrow
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 71:
+Shape A1: star, Shape A2: ellipse
+Shape C1: arrow, Shape C2: triangle
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: flip_fill
+
+Problem 72:
+Shape A1: ellipse, Shape A2: triangle
+Shape C1: star, Shape C2: rectangle
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 73:
+Shape A1: arrow, Shape A2: ellipse
+Shape C1: pentagon, Shape C2: plus
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 74:
+Shape A1: arrow, Shape A2: triangle
+Shape C1: hexagon, Shape C2: ellipse
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 75:
+Shape A1: ellipse, Shape A2: rectangle
+Shape C1: hexagon, Shape C2: star
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 76:
+Shape A1: plus, Shape A2: diamond
+Shape C1: star, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 77:
+Shape A1: rectangle, Shape A2: ellipse
+Shape C1: pentagon, Shape C2: arrow
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 78:
+Shape A1: diamond, Shape A2: star
+Shape C1: triangle, Shape C2: arrow
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 79:
+Shape A1: arrow, Shape A2: hexagon
+Shape C1: triangle, Shape C2: plus
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 80:
+Shape A1: plus, Shape A2: diamond
+Shape C1: pentagon, Shape C2: star
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 81:
+Shape A1: rectangle, Shape A2: pentagon
+Shape C1: diamond, Shape C2: ellipse
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 82:
+Shape A1: pentagon, Shape A2: diamond
+Shape C1: star, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 83:
+Shape A1: hexagon, Shape A2: plus
+Shape C1: triangle, Shape C2: diamond
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 84:
+Shape A1: arrow, Shape A2: ellipse
+Shape C1: rectangle, Shape C2: diamond
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 85:
+Shape A1: triangle, Shape A2: star
+Shape C1: arrow, Shape C2: diamond
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 86:
+Shape A1: triangle, Shape A2: hexagon
+Shape C1: plus, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 87:
+Shape A1: diamond, Shape A2: triangle
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 88:
+Shape A1: ellipse, Shape A2: diamond
+Shape C1: triangle, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 89:
+Shape A1: diamond, Shape A2: arrow
+Shape C1: rectangle, Shape C2: triangle
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 90:
+Shape A1: hexagon, Shape A2: diamond
+Shape C1: triangle, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 91:
+Shape A1: star, Shape A2: arrow
+Shape C1: rectangle, Shape C2: diamond
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 92:
+Shape A1: arrow, Shape A2: diamond
+Shape C1: rectangle, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 93:
+Shape A1: rectangle, Shape A2: pentagon
+Shape C1: star, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 94:
+Shape A1: arrow, Shape A2: triangle
+Shape C1: diamond, Shape C2: hexagon
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 95:
+Shape A1: rectangle, Shape A2: plus
+Shape C1: star, Shape C2: hexagon
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 96:
+Shape A1: pentagon, Shape A2: ellipse
+Shape C1: hexagon, Shape C2: plus
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 97:
+Shape A1: triangle, Shape A2: rectangle
+Shape C1: hexagon, Shape C2: pentagon
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 98:
+Shape A1: plus, Shape A2: arrow
+Shape C1: rectangle, Shape C2: hexagon
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 99:
+Shape A1: rectangle, Shape A2: plus
+Shape C1: diamond, Shape C2: triangle
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 100:
+Shape A1: ellipse, Shape A2: plus
+Shape C1: arrow, Shape C2: star
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 101:
+Shape A1: diamond, Shape A2: ellipse
+Shape C1: triangle, Shape C2: arrow
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 102:
+Shape A1: diamond, Shape A2: arrow
+Shape C1: rectangle, Shape C2: triangle
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 103:
+Shape A1: hexagon, Shape A2: star
+Shape C1: rectangle, Shape C2: diamond
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 104:
+Shape A1: ellipse, Shape A2: plus
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 105:
+Shape A1: plus, Shape A2: rectangle
+Shape C1: star, Shape C2: arrow
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 106:
+Shape A1: pentagon, Shape A2: ellipse
+Shape C1: diamond, Shape C2: arrow
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 107:
+Shape A1: arrow, Shape A2: star
+Shape C1: rectangle, Shape C2: diamond
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 108:
+Shape A1: pentagon, Shape A2: star
+Shape C1: rectangle, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 109:
+Shape A1: diamond, Shape A2: triangle
+Shape C1: arrow, Shape C2: star
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_down
+
+Problem 110:
+Shape A1: ellipse, Shape A2: triangle
+Shape C1: hexagon, Shape C2: arrow
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_down
+
+Problem 111:
+Shape A1: hexagon, Shape A2: ellipse
+Shape C1: pentagon, Shape C2: arrow
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 112:
+Shape A1: ellipse, Shape A2: rectangle
+Shape C1: arrow, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 113:
+Shape A1: pentagon, Shape A2: diamond
+Shape C1: hexagon, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 114:
+Shape A1: rectangle, Shape A2: hexagon
+Shape C1: plus, Shape C2: arrow
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 115:
+Shape A1: rectangle, Shape A2: arrow
+Shape C1: plus, Shape C2: star
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 116:
+Shape A1: diamond, Shape A2: plus
+Shape C1: arrow, Shape C2: hexagon
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 117:
+Shape A1: plus, Shape A2: rectangle
+Shape C1: star, Shape C2: arrow
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 118:
+Shape A1: diamond, Shape A2: plus
+Shape C1: star, Shape C2: pentagon
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 119:
+Shape A1: star, Shape A2: rectangle
+Shape C1: ellipse, Shape C2: triangle
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_down
+
+Problem 120:
+Shape A1: hexagon, Shape A2: triangle
+Shape C1: diamond, Shape C2: ellipse
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 121:
+Shape A1: rectangle, Shape A2: plus
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 122:
+Shape A1: pentagon, Shape A2: hexagon
+Shape C1: arrow, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 123:
+Shape A1: rectangle, Shape A2: diamond
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 124:
+Shape A1: triangle, Shape A2: hexagon
+Shape C1: ellipse, Shape C2: arrow
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 125:
+Shape A1: ellipse, Shape A2: plus
+Shape C1: star, Shape C2: diamond
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 126:
+Shape A1: ellipse, Shape A2: plus
+Shape C1: hexagon, Shape C2: rectangle
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 127:
+Shape A1: hexagon, Shape A2: triangle
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 128:
+Shape A1: triangle, Shape A2: plus
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 129:
+Shape A1: plus, Shape A2: star
+Shape C1: diamond, Shape C2: arrow
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 130:
+Shape A1: diamond, Shape A2: triangle
+Shape C1: ellipse, Shape C2: arrow
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 131:
+Shape A1: ellipse, Shape A2: triangle
+Shape C1: arrow, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 132:
+Shape A1: triangle, Shape A2: star
+Shape C1: plus, Shape C2: pentagon
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 133:
+Shape A1: ellipse, Shape A2: star
+Shape C1: triangle, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 134:
+Shape A1: diamond, Shape A2: hexagon
+Shape C1: arrow, Shape C2: ellipse
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 135:
+Shape A1: pentagon, Shape A2: arrow
+Shape C1: diamond, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 136:
+Shape A1: diamond, Shape A2: triangle
+Shape C1: hexagon, Shape C2: ellipse
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 137:
+Shape A1: arrow, Shape A2: rectangle
+Shape C1: star, Shape C2: pentagon
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 138:
+Shape A1: hexagon, Shape A2: triangle
+Shape C1: diamond, Shape C2: arrow
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 139:
+Shape A1: pentagon, Shape A2: hexagon
+Shape C1: triangle, Shape C2: diamond
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 140:
+Shape A1: triangle, Shape A2: pentagon
+Shape C1: hexagon, Shape C2: star
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 141:
+Shape A1: diamond, Shape A2: plus
+Shape C1: star, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 142:
+Shape A1: ellipse, Shape A2: diamond
+Shape C1: rectangle, Shape C2: triangle
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 143:
+Shape A1: rectangle, Shape A2: ellipse
+Shape C1: hexagon, Shape C2: arrow
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 144:
+Shape A1: ellipse, Shape A2: triangle
+Shape C1: star, Shape C2: pentagon
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 145:
+Shape A1: diamond, Shape A2: triangle
+Shape C1: rectangle, Shape C2: arrow
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 146:
+Shape A1: triangle, Shape A2: rectangle
+Shape C1: pentagon, Shape C2: arrow
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 147:
+Shape A1: star, Shape A2: rectangle
+Shape C1: triangle, Shape C2: plus
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 148:
+Shape A1: pentagon, Shape A2: plus
+Shape C1: diamond, Shape C2: hexagon
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 149:
+Shape A1: triangle, Shape A2: diamond
+Shape C1: plus, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 150:
+Shape A1: hexagon, Shape A2: arrow
+Shape C1: pentagon, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 151:
+Shape A1: diamond, Shape A2: pentagon
+Shape C1: triangle, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 152:
+Shape A1: ellipse, Shape A2: hexagon
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 153:
+Shape A1: plus, Shape A2: arrow
+Shape C1: rectangle, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 154:
+Shape A1: triangle, Shape A2: star
+Shape C1: ellipse, Shape C2: plus
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 155:
+Shape A1: star, Shape A2: ellipse
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 156:
+Shape A1: ellipse, Shape A2: star
+Shape C1: plus, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 157:
+Shape A1: triangle, Shape A2: diamond
+Shape C1: hexagon, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 158:
+Shape A1: pentagon, Shape A2: triangle
+Shape C1: plus, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 159:
+Shape A1: pentagon, Shape A2: rectangle
+Shape C1: diamond, Shape C2: triangle
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 160:
+Shape A1: arrow, Shape A2: pentagon
+Shape C1: star, Shape C2: triangle
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 161:
+Shape A1: star, Shape A2: pentagon
+Shape C1: diamond, Shape C2: arrow
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: flip_fill
+
+Problem 162:
+Shape A1: hexagon, Shape A2: arrow
+Shape C1: star, Shape C2: rectangle
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: scale_up
+
+Problem 163:
+Shape A1: pentagon, Shape A2: plus
+Shape C1: arrow, Shape C2: ellipse
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 164:
+Shape A1: rectangle, Shape A2: pentagon
+Shape C1: arrow, Shape C2: star
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_up
+
+Problem 165:
+Shape A1: triangle, Shape A2: pentagon
+Shape C1: diamond, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 166:
+Shape A1: diamond, Shape A2: pentagon
+Shape C1: plus, Shape C2: arrow
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 167:
+Shape A1: pentagon, Shape A2: rectangle
+Shape C1: arrow, Shape C2: plus
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 168:
+Shape A1: ellipse, Shape A2: plus
+Shape C1: diamond, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 169:
+Shape A1: ellipse, Shape A2: pentagon
+Shape C1: star, Shape C2: plus
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 170:
+Shape A1: plus, Shape A2: star
+Shape C1: rectangle, Shape C2: diamond
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 171:
+Shape A1: plus, Shape A2: triangle
+Shape C1: hexagon, Shape C2: ellipse
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 172:
+Shape A1: ellipse, Shape A2: plus
+Shape C1: triangle, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 173:
+Shape A1: pentagon, Shape A2: diamond
+Shape C1: hexagon, Shape C2: star
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 174:
+Shape A1: triangle, Shape A2: diamond
+Shape C1: arrow, Shape C2: ellipse
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 175:
+Shape A1: diamond, Shape A2: rectangle
+Shape C1: triangle, Shape C2: pentagon
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 176:
+Shape A1: pentagon, Shape A2: hexagon
+Shape C1: rectangle, Shape C2: ellipse
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 177:
+Shape A1: diamond, Shape A2: ellipse
+Shape C1: triangle, Shape C2: star
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 178:
+Shape A1: diamond, Shape A2: ellipse
+Shape C1: triangle, Shape C2: star
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 179:
+Shape A1: pentagon, Shape A2: arrow
+Shape C1: diamond, Shape C2: star
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 180:
+Shape A1: hexagon, Shape A2: pentagon
+Shape C1: rectangle, Shape C2: triangle
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: flip_fill
+
+Problem 181:
+Shape A1: rectangle, Shape A2: triangle
+Shape C1: arrow, Shape C2: plus
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 182:
+Shape A1: rectangle, Shape A2: pentagon
+Shape C1: ellipse, Shape C2: plus
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 183:
+Shape A1: arrow, Shape A2: diamond
+Shape C1: plus, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 184:
+Shape A1: star, Shape A2: arrow
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 185:
+Shape A1: triangle, Shape A2: pentagon
+Shape C1: star, Shape C2: ellipse
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 186:
+Shape A1: ellipse, Shape A2: arrow
+Shape C1: star, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 187:
+Shape A1: diamond, Shape A2: rectangle
+Shape C1: hexagon, Shape C2: arrow
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_down
+
+Problem 188:
+Shape A1: pentagon, Shape A2: arrow
+Shape C1: hexagon, Shape C2: diamond
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 189:
+Shape A1: ellipse, Shape A2: rectangle
+Shape C1: arrow, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 190:
+Shape A1: hexagon, Shape A2: arrow
+Shape C1: diamond, Shape C2: ellipse
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 191:
+Shape A1: ellipse, Shape A2: rectangle
+Shape C1: arrow, Shape C2: triangle
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 192:
+Shape A1: ellipse, Shape A2: pentagon
+Shape C1: plus, Shape C2: diamond
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 193:
+Shape A1: star, Shape A2: diamond
+Shape C1: arrow, Shape C2: plus
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 194:
+Shape A1: hexagon, Shape A2: star
+Shape C1: pentagon, Shape C2: plus
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 195:
+Shape A1: diamond, Shape A2: triangle
+Shape C1: pentagon, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 196:
+Shape A1: ellipse, Shape A2: triangle
+Shape C1: plus, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 197:
+Shape A1: diamond, Shape A2: pentagon
+Shape C1: rectangle, Shape C2: ellipse
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: flip_fill
+
+Problem 198:
+Shape A1: arrow, Shape A2: hexagon
+Shape C1: star, Shape C2: ellipse
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 199:
+Shape A1: triangle, Shape A2: pentagon
+Shape C1: star, Shape C2: ellipse
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 200:
+Shape A1: ellipse, Shape A2: star
+Shape C1: arrow, Shape C2: triangle
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 201:
+Shape A1: plus, Shape A2: rectangle
+Shape C1: arrow, Shape C2: star
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 202:
+Shape A1: triangle, Shape A2: pentagon
+Shape C1: ellipse, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 203:
+Shape A1: pentagon, Shape A2: arrow
+Shape C1: plus, Shape C2: rectangle
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 204:
+Shape A1: arrow, Shape A2: plus
+Shape C1: diamond, Shape C2: star
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 205:
+Shape A1: star, Shape A2: triangle
+Shape C1: plus, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 206:
+Shape A1: star, Shape A2: arrow
+Shape C1: hexagon, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 207:
+Shape A1: hexagon, Shape A2: plus
+Shape C1: pentagon, Shape C2: diamond
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 208:
+Shape A1: diamond, Shape A2: rectangle
+Shape C1: hexagon, Shape C2: plus
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 209:
+Shape A1: star, Shape A2: rectangle
+Shape C1: plus, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 210:
+Shape A1: hexagon, Shape A2: ellipse
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 211:
+Shape A1: arrow, Shape A2: rectangle
+Shape C1: plus, Shape C2: star
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 212:
+Shape A1: hexagon, Shape A2: ellipse
+Shape C1: star, Shape C2: arrow
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 213:
+Shape A1: triangle, Shape A2: pentagon
+Shape C1: diamond, Shape C2: star
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 214:
+Shape A1: plus, Shape A2: hexagon
+Shape C1: diamond, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 215:
+Shape A1: pentagon, Shape A2: ellipse
+Shape C1: diamond, Shape C2: arrow
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 216:
+Shape A1: diamond, Shape A2: triangle
+Shape C1: pentagon, Shape C2: plus
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_up
+
+Problem 217:
+Shape A1: pentagon, Shape A2: ellipse
+Shape C1: arrow, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 218:
+Shape A1: hexagon, Shape A2: plus
+Shape C1: rectangle, Shape C2: arrow
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 219:
+Shape A1: star, Shape A2: triangle
+Shape C1: arrow, Shape C2: ellipse
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 220:
+Shape A1: hexagon, Shape A2: ellipse
+Shape C1: plus, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 221:
+Shape A1: ellipse, Shape A2: pentagon
+Shape C1: hexagon, Shape C2: plus
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 222:
+Shape A1: plus, Shape A2: pentagon
+Shape C1: triangle, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 223:
+Shape A1: arrow, Shape A2: hexagon
+Shape C1: ellipse, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 224:
+Shape A1: rectangle, Shape A2: pentagon
+Shape C1: plus, Shape C2: diamond
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 225:
+Shape A1: triangle, Shape A2: pentagon
+Shape C1: ellipse, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: scale_up
+
+Problem 226:
+Shape A1: hexagon, Shape A2: ellipse
+Shape C1: star, Shape C2: triangle
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 227:
+Shape A1: triangle, Shape A2: diamond
+Shape C1: arrow, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 228:
+Shape A1: star, Shape A2: arrow
+Shape C1: diamond, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: flip_fill
+
+Problem 229:
+Shape A1: star, Shape A2: diamond
+Shape C1: triangle, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 230:
+Shape A1: arrow, Shape A2: pentagon
+Shape C1: diamond, Shape C2: triangle
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 231:
+Shape A1: arrow, Shape A2: pentagon
+Shape C1: hexagon, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 232:
+Shape A1: plus, Shape A2: star
+Shape C1: rectangle, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 233:
+Shape A1: arrow, Shape A2: hexagon
+Shape C1: triangle, Shape C2: ellipse
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 234:
+Shape A1: hexagon, Shape A2: ellipse
+Shape C1: triangle, Shape C2: plus
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 235:
+Shape A1: rectangle, Shape A2: diamond
+Shape C1: triangle, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 236:
+Shape A1: plus, Shape A2: diamond
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 237:
+Shape A1: pentagon, Shape A2: star
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 238:
+Shape A1: pentagon, Shape A2: hexagon
+Shape C1: plus, Shape C2: diamond
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: flip_fill
+
+Problem 239:
+Shape A1: hexagon, Shape A2: ellipse
+Shape C1: triangle, Shape C2: pentagon
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 240:
+Shape A1: triangle, Shape A2: plus
+Shape C1: rectangle, Shape C2: hexagon
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 241:
+Shape A1: hexagon, Shape A2: plus
+Shape C1: star, Shape C2: diamond
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 242:
+Shape A1: triangle, Shape A2: hexagon
+Shape C1: plus, Shape C2: star
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 243:
+Shape A1: ellipse, Shape A2: plus
+Shape C1: star, Shape C2: pentagon
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_down
+
+Problem 244:
+Shape A1: pentagon, Shape A2: triangle
+Shape C1: ellipse, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 245:
+Shape A1: ellipse, Shape A2: plus
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 246:
+Shape A1: triangle, Shape A2: plus
+Shape C1: ellipse, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 247:
+Shape A1: star, Shape A2: rectangle
+Shape C1: ellipse, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 248:
+Shape A1: hexagon, Shape A2: arrow
+Shape C1: diamond, Shape C2: star
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 249:
+Shape A1: ellipse, Shape A2: arrow
+Shape C1: diamond, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 250:
+Shape A1: rectangle, Shape A2: diamond
+Shape C1: arrow, Shape C2: pentagon
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 251:
+Shape A1: hexagon, Shape A2: plus
+Shape C1: arrow, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 252:
+Shape A1: triangle, Shape A2: arrow
+Shape C1: rectangle, Shape C2: star
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 253:
+Shape A1: plus, Shape A2: hexagon
+Shape C1: arrow, Shape C2: star
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 254:
+Shape A1: rectangle, Shape A2: hexagon
+Shape C1: star, Shape C2: triangle
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 255:
+Shape A1: plus, Shape A2: ellipse
+Shape C1: rectangle, Shape C2: star
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 256:
+Shape A1: pentagon, Shape A2: ellipse
+Shape C1: star, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 257:
+Shape A1: arrow, Shape A2: triangle
+Shape C1: hexagon, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 258:
+Shape A1: star, Shape A2: diamond
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 259:
+Shape A1: plus, Shape A2: triangle
+Shape C1: pentagon, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 260:
+Shape A1: diamond, Shape A2: ellipse
+Shape C1: plus, Shape C2: rectangle
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 261:
+Shape A1: rectangle, Shape A2: pentagon
+Shape C1: plus, Shape C2: diamond
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 262:
+Shape A1: pentagon, Shape A2: star
+Shape C1: rectangle, Shape C2: triangle
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 263:
+Shape A1: triangle, Shape A2: star
+Shape C1: ellipse, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 264:
+Shape A1: diamond, Shape A2: arrow
+Shape C1: plus, Shape C2: pentagon
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 265:
+Shape A1: plus, Shape A2: hexagon
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 266:
+Shape A1: pentagon, Shape A2: triangle
+Shape C1: hexagon, Shape C2: arrow
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 267:
+Shape A1: hexagon, Shape A2: ellipse
+Shape C1: star, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 268:
+Shape A1: arrow, Shape A2: rectangle
+Shape C1: star, Shape C2: pentagon
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 269:
+Shape A1: rectangle, Shape A2: pentagon
+Shape C1: hexagon, Shape C2: triangle
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 270:
+Shape A1: triangle, Shape A2: pentagon
+Shape C1: plus, Shape C2: diamond
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 271:
+Shape A1: star, Shape A2: pentagon
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 272:
+Shape A1: pentagon, Shape A2: plus
+Shape C1: hexagon, Shape C2: ellipse
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 273:
+Shape A1: arrow, Shape A2: star
+Shape C1: diamond, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 274:
+Shape A1: arrow, Shape A2: rectangle
+Shape C1: hexagon, Shape C2: ellipse
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 275:
+Shape A1: rectangle, Shape A2: pentagon
+Shape C1: diamond, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 276:
+Shape A1: hexagon, Shape A2: triangle
+Shape C1: star, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 277:
+Shape A1: plus, Shape A2: hexagon
+Shape C1: star, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 278:
+Shape A1: arrow, Shape A2: pentagon
+Shape C1: ellipse, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 279:
+Shape A1: arrow, Shape A2: rectangle
+Shape C1: ellipse, Shape C2: plus
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 280:
+Shape A1: diamond, Shape A2: ellipse
+Shape C1: star, Shape C2: hexagon
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 281:
+Shape A1: pentagon, Shape A2: star
+Shape C1: rectangle, Shape C2: arrow
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 282:
+Shape A1: triangle, Shape A2: hexagon
+Shape C1: rectangle, Shape C2: diamond
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 283:
+Shape A1: diamond, Shape A2: pentagon
+Shape C1: ellipse, Shape C2: plus
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 284:
+Shape A1: star, Shape A2: plus
+Shape C1: arrow, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 285:
+Shape A1: rectangle, Shape A2: diamond
+Shape C1: arrow, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 286:
+Shape A1: diamond, Shape A2: hexagon
+Shape C1: triangle, Shape C2: pentagon
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 287:
+Shape A1: plus, Shape A2: ellipse
+Shape C1: rectangle, Shape C2: diamond
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 288:
+Shape A1: pentagon, Shape A2: plus
+Shape C1: ellipse, Shape C2: diamond
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 289:
+Shape A1: triangle, Shape A2: star
+Shape C1: plus, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 290:
+Shape A1: plus, Shape A2: pentagon
+Shape C1: arrow, Shape C2: triangle
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 291:
+Shape A1: ellipse, Shape A2: star
+Shape C1: rectangle, Shape C2: arrow
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: flip_fill
+
+Problem 292:
+Shape A1: plus, Shape A2: rectangle
+Shape C1: triangle, Shape C2: star
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 293:
+Shape A1: triangle, Shape A2: diamond
+Shape C1: ellipse, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 294:
+Shape A1: triangle, Shape A2: pentagon
+Shape C1: arrow, Shape C2: star
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 295:
+Shape A1: triangle, Shape A2: arrow
+Shape C1: hexagon, Shape C2: plus
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 296:
+Shape A1: ellipse, Shape A2: diamond
+Shape C1: pentagon, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: scale_up
+
+Problem 297:
+Shape A1: rectangle, Shape A2: diamond
+Shape C1: pentagon, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 298:
+Shape A1: rectangle, Shape A2: triangle
+Shape C1: hexagon, Shape C2: diamond
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 299:
+Shape A1: hexagon, Shape A2: pentagon
+Shape C1: plus, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 300:
+Shape A1: pentagon, Shape A2: hexagon
+Shape C1: star, Shape C2: plus
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 301:
+Shape A1: plus, Shape A2: hexagon
+Shape C1: arrow, Shape C2: pentagon
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 302:
+Shape A1: ellipse, Shape A2: rectangle
+Shape C1: hexagon, Shape C2: star
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 303:
+Shape A1: ellipse, Shape A2: triangle
+Shape C1: rectangle, Shape C2: arrow
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 304:
+Shape A1: arrow, Shape A2: diamond
+Shape C1: triangle, Shape C2: ellipse
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 305:
+Shape A1: arrow, Shape A2: pentagon
+Shape C1: triangle, Shape C2: diamond
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 306:
+Shape A1: pentagon, Shape A2: arrow
+Shape C1: ellipse, Shape C2: diamond
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 307:
+Shape A1: triangle, Shape A2: plus
+Shape C1: pentagon, Shape C2: star
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 308:
+Shape A1: ellipse, Shape A2: triangle
+Shape C1: star, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 309:
+Shape A1: ellipse, Shape A2: star
+Shape C1: rectangle, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 310:
+Shape A1: diamond, Shape A2: triangle
+Shape C1: plus, Shape C2: pentagon
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 311:
+Shape A1: rectangle, Shape A2: plus
+Shape C1: diamond, Shape C2: pentagon
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 312:
+Shape A1: rectangle, Shape A2: triangle
+Shape C1: arrow, Shape C2: ellipse
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 313:
+Shape A1: hexagon, Shape A2: ellipse
+Shape C1: arrow, Shape C2: pentagon
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 314:
+Shape A1: rectangle, Shape A2: arrow
+Shape C1: plus, Shape C2: hexagon
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 315:
+Shape A1: star, Shape A2: pentagon
+Shape C1: ellipse, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 316:
+Shape A1: ellipse, Shape A2: hexagon
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 317:
+Shape A1: rectangle, Shape A2: triangle
+Shape C1: arrow, Shape C2: ellipse
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 318:
+Shape A1: pentagon, Shape A2: hexagon
+Shape C1: star, Shape C2: ellipse
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 319:
+Shape A1: star, Shape A2: arrow
+Shape C1: rectangle, Shape C2: hexagon
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 320:
+Shape A1: plus, Shape A2: triangle
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 321:
+Shape A1: star, Shape A2: rectangle
+Shape C1: pentagon, Shape C2: diamond
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 322:
+Shape A1: rectangle, Shape A2: hexagon
+Shape C1: ellipse, Shape C2: diamond
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: flip_fill
+
+Problem 323:
+Shape A1: arrow, Shape A2: rectangle
+Shape C1: ellipse, Shape C2: diamond
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 324:
+Shape A1: triangle, Shape A2: star
+Shape C1: hexagon, Shape C2: pentagon
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 325:
+Shape A1: star, Shape A2: pentagon
+Shape C1: arrow, Shape C2: ellipse
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 326:
+Shape A1: arrow, Shape A2: diamond
+Shape C1: rectangle, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 327:
+Shape A1: pentagon, Shape A2: triangle
+Shape C1: hexagon, Shape C2: star
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: flip_fill
+
+Problem 328:
+Shape A1: hexagon, Shape A2: star
+Shape C1: ellipse, Shape C2: diamond
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 329:
+Shape A1: pentagon, Shape A2: ellipse
+Shape C1: triangle, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 330:
+Shape A1: triangle, Shape A2: plus
+Shape C1: ellipse, Shape C2: arrow
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 331:
+Shape A1: diamond, Shape A2: hexagon
+Shape C1: plus, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 332:
+Shape A1: diamond, Shape A2: ellipse
+Shape C1: plus, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 333:
+Shape A1: plus, Shape A2: pentagon
+Shape C1: triangle, Shape C2: arrow
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 334:
+Shape A1: pentagon, Shape A2: plus
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 335:
+Shape A1: hexagon, Shape A2: plus
+Shape C1: pentagon, Shape C2: diamond
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 336:
+Shape A1: diamond, Shape A2: triangle
+Shape C1: pentagon, Shape C2: arrow
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 337:
+Shape A1: arrow, Shape A2: triangle
+Shape C1: rectangle, Shape C2: star
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 338:
+Shape A1: star, Shape A2: pentagon
+Shape C1: rectangle, Shape C2: plus
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 339:
+Shape A1: arrow, Shape A2: triangle
+Shape C1: pentagon, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 340:
+Shape A1: rectangle, Shape A2: star
+Shape C1: pentagon, Shape C2: arrow
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 341:
+Shape A1: pentagon, Shape A2: arrow
+Shape C1: hexagon, Shape C2: rectangle
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 342:
+Shape A1: ellipse, Shape A2: pentagon
+Shape C1: arrow, Shape C2: triangle
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 343:
+Shape A1: plus, Shape A2: ellipse
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 344:
+Shape A1: pentagon, Shape A2: arrow
+Shape C1: triangle, Shape C2: diamond
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 345:
+Shape A1: diamond, Shape A2: hexagon
+Shape C1: ellipse, Shape C2: triangle
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 346:
+Shape A1: ellipse, Shape A2: plus
+Shape C1: diamond, Shape C2: triangle
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_down
+
+Problem 347:
+Shape A1: pentagon, Shape A2: plus
+Shape C1: triangle, Shape C2: arrow
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 348:
+Shape A1: triangle, Shape A2: plus
+Shape C1: hexagon, Shape C2: arrow
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 349:
+Shape A1: star, Shape A2: diamond
+Shape C1: arrow, Shape C2: rectangle
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 350:
+Shape A1: arrow, Shape A2: ellipse
+Shape C1: star, Shape C2: triangle
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 351:
+Shape A1: plus, Shape A2: hexagon
+Shape C1: pentagon, Shape C2: triangle
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 352:
+Shape A1: star, Shape A2: rectangle
+Shape C1: hexagon, Shape C2: ellipse
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 353:
+Shape A1: plus, Shape A2: triangle
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 354:
+Shape A1: star, Shape A2: ellipse
+Shape C1: hexagon, Shape C2: pentagon
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 355:
+Shape A1: ellipse, Shape A2: pentagon
+Shape C1: rectangle, Shape C2: diamond
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 356:
+Shape A1: triangle, Shape A2: hexagon
+Shape C1: ellipse, Shape C2: diamond
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 357:
+Shape A1: diamond, Shape A2: hexagon
+Shape C1: star, Shape C2: pentagon
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 358:
+Shape A1: arrow, Shape A2: plus
+Shape C1: ellipse, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 359:
+Shape A1: star, Shape A2: ellipse
+Shape C1: arrow, Shape C2: diamond
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 360:
+Shape A1: star, Shape A2: hexagon
+Shape C1: plus, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 361:
+Shape A1: hexagon, Shape A2: pentagon
+Shape C1: plus, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 362:
+Shape A1: pentagon, Shape A2: hexagon
+Shape C1: ellipse, Shape C2: star
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: flip_fill
+
+Problem 363:
+Shape A1: star, Shape A2: pentagon
+Shape C1: rectangle, Shape C2: ellipse
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 364:
+Shape A1: diamond, Shape A2: star
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 365:
+Shape A1: triangle, Shape A2: arrow
+Shape C1: rectangle, Shape C2: ellipse
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 366:
+Shape A1: arrow, Shape A2: star
+Shape C1: pentagon, Shape C2: ellipse
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 367:
+Shape A1: arrow, Shape A2: pentagon
+Shape C1: rectangle, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 368:
+Shape A1: triangle, Shape A2: diamond
+Shape C1: rectangle, Shape C2: plus
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 369:
+Shape A1: plus, Shape A2: pentagon
+Shape C1: arrow, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 370:
+Shape A1: arrow, Shape A2: plus
+Shape C1: triangle, Shape C2: ellipse
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 371:
+Shape A1: plus, Shape A2: hexagon
+Shape C1: triangle, Shape C2: diamond
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 372:
+Shape A1: arrow, Shape A2: hexagon
+Shape C1: rectangle, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 373:
+Shape A1: ellipse, Shape A2: rectangle
+Shape C1: diamond, Shape C2: arrow
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 374:
+Shape A1: arrow, Shape A2: plus
+Shape C1: star, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 375:
+Shape A1: arrow, Shape A2: plus
+Shape C1: hexagon, Shape C2: diamond
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 376:
+Shape A1: arrow, Shape A2: pentagon
+Shape C1: diamond, Shape C2: ellipse
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 377:
+Shape A1: pentagon, Shape A2: ellipse
+Shape C1: star, Shape C2: diamond
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 378:
+Shape A1: pentagon, Shape A2: triangle
+Shape C1: hexagon, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 379:
+Shape A1: hexagon, Shape A2: diamond
+Shape C1: triangle, Shape C2: pentagon
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 380:
+Shape A1: ellipse, Shape A2: plus
+Shape C1: pentagon, Shape C2: diamond
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 381:
+Shape A1: hexagon, Shape A2: star
+Shape C1: pentagon, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 382:
+Shape A1: arrow, Shape A2: diamond
+Shape C1: star, Shape C2: triangle
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 383:
+Shape A1: hexagon, Shape A2: plus
+Shape C1: ellipse, Shape C2: triangle
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 384:
+Shape A1: plus, Shape A2: star
+Shape C1: rectangle, Shape C2: ellipse
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 385:
+Shape A1: diamond, Shape A2: plus
+Shape C1: pentagon, Shape C2: ellipse
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 386:
+Shape A1: rectangle, Shape A2: triangle
+Shape C1: pentagon, Shape C2: hexagon
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 387:
+Shape A1: triangle, Shape A2: diamond
+Shape C1: ellipse, Shape C2: star
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 388:
+Shape A1: diamond, Shape A2: plus
+Shape C1: arrow, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_up
+
+Problem 389:
+Shape A1: pentagon, Shape A2: diamond
+Shape C1: arrow, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: flip_fill
+
+Problem 390:
+Shape A1: ellipse, Shape A2: hexagon
+Shape C1: star, Shape C2: triangle
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 391:
+Shape A1: rectangle, Shape A2: triangle
+Shape C1: star, Shape C2: pentagon
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 392:
+Shape A1: ellipse, Shape A2: plus
+Shape C1: triangle, Shape C2: pentagon
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 393:
+Shape A1: star, Shape A2: hexagon
+Shape C1: arrow, Shape C2: pentagon
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 394:
+Shape A1: rectangle, Shape A2: star
+Shape C1: triangle, Shape C2: arrow
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 395:
+Shape A1: rectangle, Shape A2: diamond
+Shape C1: hexagon, Shape C2: star
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 396:
+Shape A1: arrow, Shape A2: ellipse
+Shape C1: pentagon, Shape C2: plus
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 397:
+Shape A1: arrow, Shape A2: star
+Shape C1: ellipse, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 398:
+Shape A1: rectangle, Shape A2: triangle
+Shape C1: hexagon, Shape C2: plus
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 399:
+Shape A1: arrow, Shape A2: pentagon
+Shape C1: star, Shape C2: diamond
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 400:
+Shape A1: pentagon, Shape A2: triangle
+Shape C1: rectangle, Shape C2: star
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 401:
+Shape A1: diamond, Shape A2: star
+Shape C1: triangle, Shape C2: pentagon
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 402:
+Shape A1: rectangle, Shape A2: plus
+Shape C1: arrow, Shape C2: hexagon
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 403:
+Shape A1: hexagon, Shape A2: triangle
+Shape C1: arrow, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 404:
+Shape A1: hexagon, Shape A2: arrow
+Shape C1: triangle, Shape C2: ellipse
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 405:
+Shape A1: triangle, Shape A2: arrow
+Shape C1: ellipse, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 406:
+Shape A1: rectangle, Shape A2: arrow
+Shape C1: hexagon, Shape C2: star
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 407:
+Shape A1: triangle, Shape A2: hexagon
+Shape C1: pentagon, Shape C2: star
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 408:
+Shape A1: rectangle, Shape A2: hexagon
+Shape C1: triangle, Shape C2: arrow
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 409:
+Shape A1: plus, Shape A2: hexagon
+Shape C1: star, Shape C2: diamond
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 410:
+Shape A1: triangle, Shape A2: star
+Shape C1: pentagon, Shape C2: arrow
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 411:
+Shape A1: arrow, Shape A2: hexagon
+Shape C1: ellipse, Shape C2: pentagon
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 412:
+Shape A1: plus, Shape A2: star
+Shape C1: rectangle, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 413:
+Shape A1: plus, Shape A2: diamond
+Shape C1: arrow, Shape C2: star
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_down
+
+Problem 414:
+Shape A1: diamond, Shape A2: rectangle
+Shape C1: ellipse, Shape C2: pentagon
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 415:
+Shape A1: pentagon, Shape A2: star
+Shape C1: hexagon, Shape C2: rectangle
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 416:
+Shape A1: triangle, Shape A2: star
+Shape C1: diamond, Shape C2: pentagon
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_down
+
+Problem 417:
+Shape A1: pentagon, Shape A2: triangle
+Shape C1: arrow, Shape C2: rectangle
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 418:
+Shape A1: ellipse, Shape A2: triangle
+Shape C1: hexagon, Shape C2: star
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 419:
+Shape A1: star, Shape A2: arrow
+Shape C1: rectangle, Shape C2: ellipse
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 420:
+Shape A1: triangle, Shape A2: ellipse
+Shape C1: hexagon, Shape C2: diamond
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 421:
+Shape A1: ellipse, Shape A2: hexagon
+Shape C1: rectangle, Shape C2: star
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 422:
+Shape A1: rectangle, Shape A2: pentagon
+Shape C1: star, Shape C2: plus
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 423:
+Shape A1: hexagon, Shape A2: triangle
+Shape C1: plus, Shape C2: star
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 424:
+Shape A1: pentagon, Shape A2: diamond
+Shape C1: star, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 425:
+Shape A1: triangle, Shape A2: plus
+Shape C1: rectangle, Shape C2: pentagon
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 426:
+Shape A1: diamond, Shape A2: pentagon
+Shape C1: triangle, Shape C2: ellipse
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 427:
+Shape A1: ellipse, Shape A2: plus
+Shape C1: pentagon, Shape C2: diamond
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 428:
+Shape A1: pentagon, Shape A2: hexagon
+Shape C1: rectangle, Shape C2: triangle
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 429:
+Shape A1: star, Shape A2: plus
+Shape C1: arrow, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 430:
+Shape A1: arrow, Shape A2: hexagon
+Shape C1: rectangle, Shape C2: pentagon
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_down
+
+Problem 431:
+Shape A1: rectangle, Shape A2: arrow
+Shape C1: plus, Shape C2: triangle
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_down
+
+Problem 432:
+Shape A1: ellipse, Shape A2: diamond
+Shape C1: rectangle, Shape C2: pentagon
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 433:
+Shape A1: plus, Shape A2: pentagon
+Shape C1: rectangle, Shape C2: ellipse
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 434:
+Shape A1: pentagon, Shape A2: triangle
+Shape C1: arrow, Shape C2: diamond
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 435:
+Shape A1: arrow, Shape A2: rectangle
+Shape C1: diamond, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 436:
+Shape A1: hexagon, Shape A2: arrow
+Shape C1: plus, Shape C2: ellipse
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 437:
+Shape A1: ellipse, Shape A2: triangle
+Shape C1: star, Shape C2: arrow
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 438:
+Shape A1: diamond, Shape A2: triangle
+Shape C1: pentagon, Shape C2: plus
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: flip_fill
+
+Problem 439:
+Shape A1: diamond, Shape A2: star
+Shape C1: hexagon, Shape C2: pentagon
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: flip_fill
+
+Problem 440:
+Shape A1: plus, Shape A2: rectangle
+Shape C1: star, Shape C2: arrow
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 441:
+Shape A1: rectangle, Shape A2: star
+Shape C1: hexagon, Shape C2: diamond
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 442:
+Shape A1: diamond, Shape A2: hexagon
+Shape C1: plus, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 443:
+Shape A1: pentagon, Shape A2: ellipse
+Shape C1: rectangle, Shape C2: plus
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: flip_fill
+
+Problem 444:
+Shape A1: pentagon, Shape A2: hexagon
+Shape C1: plus, Shape C2: diamond
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 445:
+Shape A1: hexagon, Shape A2: star
+Shape C1: arrow, Shape C2: rectangle
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 446:
+Shape A1: pentagon, Shape A2: triangle
+Shape C1: arrow, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 447:
+Shape A1: hexagon, Shape A2: star
+Shape C1: plus, Shape C2: triangle
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 448:
+Shape A1: diamond, Shape A2: ellipse
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 449:
+Shape A1: arrow, Shape A2: hexagon
+Shape C1: triangle, Shape C2: ellipse
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 450:
+Shape A1: diamond, Shape A2: triangle
+Shape C1: plus, Shape C2: ellipse
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 451:
+Shape A1: pentagon, Shape A2: hexagon
+Shape C1: plus, Shape C2: ellipse
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 452:
+Shape A1: rectangle, Shape A2: star
+Shape C1: pentagon, Shape C2: diamond
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: flip_fill
+
+Problem 453:
+Shape A1: rectangle, Shape A2: triangle
+Shape C1: arrow, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 454:
+Shape A1: ellipse, Shape A2: arrow
+Shape C1: hexagon, Shape C2: triangle
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 455:
+Shape A1: rectangle, Shape A2: ellipse
+Shape C1: plus, Shape C2: star
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 456:
+Shape A1: triangle, Shape A2: star
+Shape C1: ellipse, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 457:
+Shape A1: star, Shape A2: triangle
+Shape C1: pentagon, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 458:
+Shape A1: diamond, Shape A2: arrow
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 459:
+Shape A1: plus, Shape A2: triangle
+Shape C1: hexagon, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 460:
+Shape A1: pentagon, Shape A2: diamond
+Shape C1: star, Shape C2: ellipse
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: flip_fill
+
+Problem 461:
+Shape A1: plus, Shape A2: hexagon
+Shape C1: triangle, Shape C2: pentagon
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 462:
+Shape A1: arrow, Shape A2: pentagon
+Shape C1: plus, Shape C2: ellipse
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 463:
+Shape A1: plus, Shape A2: ellipse
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 464:
+Shape A1: hexagon, Shape A2: triangle
+Shape C1: pentagon, Shape C2: star
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 465:
+Shape A1: pentagon, Shape A2: diamond
+Shape C1: hexagon, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 466:
+Shape A1: arrow, Shape A2: diamond
+Shape C1: rectangle, Shape C2: pentagon
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 467:
+Shape A1: plus, Shape A2: rectangle
+Shape C1: ellipse, Shape C2: diamond
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 468:
+Shape A1: plus, Shape A2: star
+Shape C1: pentagon, Shape C2: arrow
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 469:
+Shape A1: diamond, Shape A2: star
+Shape C1: plus, Shape C2: arrow
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 470:
+Shape A1: pentagon, Shape A2: triangle
+Shape C1: rectangle, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 471:
+Shape A1: star, Shape A2: pentagon
+Shape C1: arrow, Shape C2: plus
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 472:
+Shape A1: pentagon, Shape A2: star
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 473:
+Shape A1: hexagon, Shape A2: ellipse
+Shape C1: triangle, Shape C2: star
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 474:
+Shape A1: ellipse, Shape A2: pentagon
+Shape C1: triangle, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 475:
+Shape A1: hexagon, Shape A2: plus
+Shape C1: pentagon, Shape C2: ellipse
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 476:
+Shape A1: pentagon, Shape A2: rectangle
+Shape C1: plus, Shape C2: arrow
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: flip_fill
+
+Problem 477:
+Shape A1: ellipse, Shape A2: star
+Shape C1: diamond, Shape C2: pentagon
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 478:
+Shape A1: rectangle, Shape A2: hexagon
+Shape C1: ellipse, Shape C2: triangle
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 479:
+Shape A1: pentagon, Shape A2: rectangle
+Shape C1: plus, Shape C2: diamond
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 480:
+Shape A1: rectangle, Shape A2: star
+Shape C1: ellipse, Shape C2: pentagon
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: flip_fill
+
+Problem 481:
+Shape A1: ellipse, Shape A2: diamond
+Shape C1: star, Shape C2: arrow
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 482:
+Shape A1: triangle, Shape A2: star
+Shape C1: ellipse, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 483:
+Shape A1: ellipse, Shape A2: rectangle
+Shape C1: diamond, Shape C2: pentagon
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 484:
+Shape A1: plus, Shape A2: ellipse
+Shape C1: triangle, Shape C2: diamond
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 485:
+Shape A1: rectangle, Shape A2: pentagon
+Shape C1: ellipse, Shape C2: plus
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 486:
+Shape A1: arrow, Shape A2: pentagon
+Shape C1: rectangle, Shape C2: ellipse
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 487:
+Shape A1: rectangle, Shape A2: triangle
+Shape C1: diamond, Shape C2: pentagon
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 488:
+Shape A1: plus, Shape A2: rectangle
+Shape C1: arrow, Shape C2: ellipse
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 489:
+Shape A1: rectangle, Shape A2: diamond
+Shape C1: pentagon, Shape C2: ellipse
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 490:
+Shape A1: hexagon, Shape A2: arrow
+Shape C1: ellipse, Shape C2: pentagon
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 491:
+Shape A1: pentagon, Shape A2: hexagon
+Shape C1: plus, Shape C2: arrow
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 492:
+Shape A1: arrow, Shape A2: triangle
+Shape C1: rectangle, Shape C2: ellipse
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 493:
+Shape A1: plus, Shape A2: arrow
+Shape C1: pentagon, Shape C2: star
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 494:
+Shape A1: star, Shape A2: ellipse
+Shape C1: hexagon, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 495:
+Shape A1: triangle, Shape A2: pentagon
+Shape C1: arrow, Shape C2: plus
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 496:
+Shape A1: triangle, Shape A2: ellipse
+Shape C1: hexagon, Shape C2: arrow
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 497:
+Shape A1: plus, Shape A2: pentagon
+Shape C1: arrow, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 498:
+Shape A1: diamond, Shape A2: pentagon
+Shape C1: rectangle, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 499:
+Shape A1: pentagon, Shape A2: triangle
+Shape C1: arrow, Shape C2: rectangle
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 500:
+Shape A1: rectangle, Shape A2: ellipse
+Shape C1: triangle, Shape C2: diamond
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 501:
+Shape A1: hexagon, Shape A2: arrow
+Shape C1: ellipse, Shape C2: pentagon
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 502:
+Shape A1: rectangle, Shape A2: triangle
+Shape C1: pentagon, Shape C2: plus
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 503:
+Shape A1: star, Shape A2: plus
+Shape C1: ellipse, Shape C2: diamond
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 504:
+Shape A1: diamond, Shape A2: star
+Shape C1: arrow, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 505:
+Shape A1: diamond, Shape A2: ellipse
+Shape C1: hexagon, Shape C2: triangle
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 506:
+Shape A1: arrow, Shape A2: star
+Shape C1: triangle, Shape C2: pentagon
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 507:
+Shape A1: hexagon, Shape A2: rectangle
+Shape C1: star, Shape C2: pentagon
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: flip_fill
+
+Problem 508:
+Shape A1: ellipse, Shape A2: pentagon
+Shape C1: triangle, Shape C2: star
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 509:
+Shape A1: diamond, Shape A2: ellipse
+Shape C1: plus, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 510:
+Shape A1: triangle, Shape A2: pentagon
+Shape C1: rectangle, Shape C2: ellipse
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: flip_fill
+
+Problem 511:
+Shape A1: plus, Shape A2: arrow
+Shape C1: rectangle, Shape C2: ellipse
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 512:
+Shape A1: diamond, Shape A2: hexagon
+Shape C1: star, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 513:
+Shape A1: star, Shape A2: pentagon
+Shape C1: arrow, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 514:
+Shape A1: arrow, Shape A2: rectangle
+Shape C1: triangle, Shape C2: star
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 515:
+Shape A1: triangle, Shape A2: rectangle
+Shape C1: diamond, Shape C2: pentagon
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 516:
+Shape A1: diamond, Shape A2: ellipse
+Shape C1: rectangle, Shape C2: pentagon
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 517:
+Shape A1: ellipse, Shape A2: rectangle
+Shape C1: triangle, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 518:
+Shape A1: diamond, Shape A2: rectangle
+Shape C1: star, Shape C2: ellipse
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 519:
+Shape A1: triangle, Shape A2: star
+Shape C1: hexagon, Shape C2: ellipse
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 520:
+Shape A1: star, Shape A2: pentagon
+Shape C1: plus, Shape C2: ellipse
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 521:
+Shape A1: plus, Shape A2: hexagon
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 522:
+Shape A1: diamond, Shape A2: plus
+Shape C1: triangle, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 523:
+Shape A1: diamond, Shape A2: star
+Shape C1: pentagon, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 524:
+Shape A1: triangle, Shape A2: hexagon
+Shape C1: plus, Shape C2: arrow
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 525:
+Shape A1: star, Shape A2: rectangle
+Shape C1: triangle, Shape C2: ellipse
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 526:
+Shape A1: diamond, Shape A2: star
+Shape C1: ellipse, Shape C2: hexagon
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 527:
+Shape A1: pentagon, Shape A2: arrow
+Shape C1: diamond, Shape C2: triangle
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 528:
+Shape A1: rectangle, Shape A2: arrow
+Shape C1: pentagon, Shape C2: star
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 529:
+Shape A1: star, Shape A2: triangle
+Shape C1: arrow, Shape C2: plus
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 530:
+Shape A1: rectangle, Shape A2: pentagon
+Shape C1: star, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 531:
+Shape A1: ellipse, Shape A2: hexagon
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 532:
+Shape A1: pentagon, Shape A2: star
+Shape C1: arrow, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 533:
+Shape A1: triangle, Shape A2: ellipse
+Shape C1: star, Shape C2: arrow
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 534:
+Shape A1: triangle, Shape A2: pentagon
+Shape C1: rectangle, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 535:
+Shape A1: hexagon, Shape A2: pentagon
+Shape C1: star, Shape C2: ellipse
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 536:
+Shape A1: star, Shape A2: ellipse
+Shape C1: arrow, Shape C2: triangle
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 537:
+Shape A1: star, Shape A2: triangle
+Shape C1: rectangle, Shape C2: pentagon
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 538:
+Shape A1: triangle, Shape A2: pentagon
+Shape C1: hexagon, Shape C2: arrow
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 539:
+Shape A1: rectangle, Shape A2: plus
+Shape C1: hexagon, Shape C2: triangle
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 540:
+Shape A1: star, Shape A2: plus
+Shape C1: hexagon, Shape C2: diamond
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 541:
+Shape A1: plus, Shape A2: arrow
+Shape C1: diamond, Shape C2: star
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 542:
+Shape A1: triangle, Shape A2: rectangle
+Shape C1: pentagon, Shape C2: ellipse
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 543:
+Shape A1: pentagon, Shape A2: star
+Shape C1: rectangle, Shape C2: diamond
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 544:
+Shape A1: hexagon, Shape A2: plus
+Shape C1: diamond, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 545:
+Shape A1: rectangle, Shape A2: star
+Shape C1: pentagon, Shape C2: ellipse
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 546:
+Shape A1: arrow, Shape A2: ellipse
+Shape C1: star, Shape C2: hexagon
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 547:
+Shape A1: rectangle, Shape A2: arrow
+Shape C1: hexagon, Shape C2: ellipse
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: flip_fill
+
+Problem 548:
+Shape A1: arrow, Shape A2: triangle
+Shape C1: rectangle, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 549:
+Shape A1: triangle, Shape A2: pentagon
+Shape C1: star, Shape C2: diamond
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 550:
+Shape A1: star, Shape A2: plus
+Shape C1: arrow, Shape C2: hexagon
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 551:
+Shape A1: pentagon, Shape A2: rectangle
+Shape C1: arrow, Shape C2: plus
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 552:
+Shape A1: arrow, Shape A2: ellipse
+Shape C1: triangle, Shape C2: star
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 553:
+Shape A1: diamond, Shape A2: rectangle
+Shape C1: star, Shape C2: pentagon
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 554:
+Shape A1: pentagon, Shape A2: plus
+Shape C1: rectangle, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 555:
+Shape A1: plus, Shape A2: ellipse
+Shape C1: arrow, Shape C2: star
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 556:
+Shape A1: triangle, Shape A2: pentagon
+Shape C1: rectangle, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 557:
+Shape A1: diamond, Shape A2: rectangle
+Shape C1: pentagon, Shape C2: triangle
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 558:
+Shape A1: arrow, Shape A2: rectangle
+Shape C1: ellipse, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 559:
+Shape A1: rectangle, Shape A2: pentagon
+Shape C1: star, Shape C2: diamond
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 560:
+Shape A1: rectangle, Shape A2: diamond
+Shape C1: arrow, Shape C2: triangle
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 561:
+Shape A1: pentagon, Shape A2: triangle
+Shape C1: diamond, Shape C2: ellipse
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 562:
+Shape A1: plus, Shape A2: rectangle
+Shape C1: ellipse, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 563:
+Shape A1: rectangle, Shape A2: arrow
+Shape C1: star, Shape C2: pentagon
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 564:
+Shape A1: diamond, Shape A2: hexagon
+Shape C1: rectangle, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 565:
+Shape A1: rectangle, Shape A2: arrow
+Shape C1: pentagon, Shape C2: ellipse
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 566:
+Shape A1: arrow, Shape A2: star
+Shape C1: plus, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 567:
+Shape A1: rectangle, Shape A2: star
+Shape C1: diamond, Shape C2: hexagon
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 568:
+Shape A1: plus, Shape A2: triangle
+Shape C1: ellipse, Shape C2: star
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 569:
+Shape A1: hexagon, Shape A2: triangle
+Shape C1: arrow, Shape C2: plus
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 570:
+Shape A1: rectangle, Shape A2: hexagon
+Shape C1: star, Shape C2: ellipse
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 571:
+Shape A1: triangle, Shape A2: ellipse
+Shape C1: rectangle, Shape C2: hexagon
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 572:
+Shape A1: hexagon, Shape A2: rectangle
+Shape C1: pentagon, Shape C2: star
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 573:
+Shape A1: triangle, Shape A2: pentagon
+Shape C1: arrow, Shape C2: ellipse
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 574:
+Shape A1: triangle, Shape A2: rectangle
+Shape C1: ellipse, Shape C2: arrow
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 575:
+Shape A1: pentagon, Shape A2: ellipse
+Shape C1: rectangle, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 576:
+Shape A1: triangle, Shape A2: star
+Shape C1: rectangle, Shape C2: ellipse
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: flip_fill
+
+Problem 577:
+Shape A1: plus, Shape A2: hexagon
+Shape C1: arrow, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 578:
+Shape A1: pentagon, Shape A2: diamond
+Shape C1: star, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 579:
+Shape A1: ellipse, Shape A2: rectangle
+Shape C1: plus, Shape C2: arrow
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 580:
+Shape A1: star, Shape A2: diamond
+Shape C1: plus, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 581:
+Shape A1: arrow, Shape A2: star
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 582:
+Shape A1: star, Shape A2: plus
+Shape C1: ellipse, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 583:
+Shape A1: arrow, Shape A2: star
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 584:
+Shape A1: rectangle, Shape A2: triangle
+Shape C1: star, Shape C2: ellipse
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 585:
+Shape A1: plus, Shape A2: ellipse
+Shape C1: pentagon, Shape C2: arrow
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 586:
+Shape A1: diamond, Shape A2: star
+Shape C1: ellipse, Shape C2: triangle
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 587:
+Shape A1: arrow, Shape A2: hexagon
+Shape C1: ellipse, Shape C2: triangle
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 588:
+Shape A1: plus, Shape A2: rectangle
+Shape C1: star, Shape C2: triangle
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 589:
+Shape A1: ellipse, Shape A2: arrow
+Shape C1: plus, Shape C2: star
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 590:
+Shape A1: pentagon, Shape A2: star
+Shape C1: rectangle, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 591:
+Shape A1: rectangle, Shape A2: pentagon
+Shape C1: star, Shape C2: plus
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 592:
+Shape A1: star, Shape A2: arrow
+Shape C1: diamond, Shape C2: triangle
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: flip_fill
+
+Problem 593:
+Shape A1: plus, Shape A2: rectangle
+Shape C1: ellipse, Shape C2: hexagon
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 594:
+Shape A1: rectangle, Shape A2: triangle
+Shape C1: pentagon, Shape C2: star
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 595:
+Shape A1: ellipse, Shape A2: arrow
+Shape C1: hexagon, Shape C2: diamond
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 596:
+Shape A1: arrow, Shape A2: plus
+Shape C1: rectangle, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: flip_fill
+
+Problem 597:
+Shape A1: hexagon, Shape A2: ellipse
+Shape C1: rectangle, Shape C2: pentagon
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_down
+
+Problem 598:
+Shape A1: rectangle, Shape A2: plus
+Shape C1: hexagon, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 599:
+Shape A1: diamond, Shape A2: star
+Shape C1: ellipse, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 600:
+Shape A1: diamond, Shape A2: rectangle
+Shape C1: hexagon, Shape C2: pentagon
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 601:
+Shape A1: diamond, Shape A2: hexagon
+Shape C1: triangle, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 602:
+Shape A1: arrow, Shape A2: pentagon
+Shape C1: rectangle, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 603:
+Shape A1: triangle, Shape A2: diamond
+Shape C1: rectangle, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 604:
+Shape A1: hexagon, Shape A2: ellipse
+Shape C1: rectangle, Shape C2: triangle
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 605:
+Shape A1: plus, Shape A2: star
+Shape C1: arrow, Shape C2: rectangle
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 606:
+Shape A1: diamond, Shape A2: plus
+Shape C1: rectangle, Shape C2: pentagon
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 607:
+Shape A1: star, Shape A2: diamond
+Shape C1: ellipse, Shape C2: plus
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 608:
+Shape A1: plus, Shape A2: diamond
+Shape C1: ellipse, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 609:
+Shape A1: diamond, Shape A2: plus
+Shape C1: hexagon, Shape C2: triangle
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 610:
+Shape A1: hexagon, Shape A2: diamond
+Shape C1: arrow, Shape C2: ellipse
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 611:
+Shape A1: rectangle, Shape A2: star
+Shape C1: plus, Shape C2: diamond
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_down
+
+Problem 612:
+Shape A1: hexagon, Shape A2: star
+Shape C1: arrow, Shape C2: ellipse
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 613:
+Shape A1: hexagon, Shape A2: rectangle
+Shape C1: arrow, Shape C2: star
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 614:
+Shape A1: rectangle, Shape A2: plus
+Shape C1: hexagon, Shape C2: ellipse
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 615:
+Shape A1: rectangle, Shape A2: plus
+Shape C1: hexagon, Shape C2: diamond
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 616:
+Shape A1: arrow, Shape A2: pentagon
+Shape C1: ellipse, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: flip_fill
+
+Problem 617:
+Shape A1: star, Shape A2: ellipse
+Shape C1: arrow, Shape C2: plus
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 618:
+Shape A1: arrow, Shape A2: triangle
+Shape C1: hexagon, Shape C2: pentagon
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 619:
+Shape A1: triangle, Shape A2: hexagon
+Shape C1: arrow, Shape C2: ellipse
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 620:
+Shape A1: hexagon, Shape A2: star
+Shape C1: triangle, Shape C2: arrow
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 621:
+Shape A1: plus, Shape A2: ellipse
+Shape C1: rectangle, Shape C2: star
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 622:
+Shape A1: pentagon, Shape A2: ellipse
+Shape C1: diamond, Shape C2: arrow
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 623:
+Shape A1: rectangle, Shape A2: ellipse
+Shape C1: triangle, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 624:
+Shape A1: pentagon, Shape A2: arrow
+Shape C1: diamond, Shape C2: plus
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 625:
+Shape A1: diamond, Shape A2: ellipse
+Shape C1: rectangle, Shape C2: pentagon
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 626:
+Shape A1: triangle, Shape A2: ellipse
+Shape C1: diamond, Shape C2: arrow
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 627:
+Shape A1: triangle, Shape A2: ellipse
+Shape C1: diamond, Shape C2: plus
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 628:
+Shape A1: hexagon, Shape A2: star
+Shape C1: triangle, Shape C2: ellipse
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 629:
+Shape A1: triangle, Shape A2: plus
+Shape C1: arrow, Shape C2: hexagon
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 630:
+Shape A1: hexagon, Shape A2: pentagon
+Shape C1: arrow, Shape C2: diamond
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 631:
+Shape A1: triangle, Shape A2: star
+Shape C1: ellipse, Shape C2: arrow
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 632:
+Shape A1: pentagon, Shape A2: diamond
+Shape C1: rectangle, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 633:
+Shape A1: triangle, Shape A2: star
+Shape C1: arrow, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 634:
+Shape A1: rectangle, Shape A2: arrow
+Shape C1: star, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 635:
+Shape A1: plus, Shape A2: pentagon
+Shape C1: star, Shape C2: triangle
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 636:
+Shape A1: star, Shape A2: triangle
+Shape C1: rectangle, Shape C2: hexagon
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 637:
+Shape A1: plus, Shape A2: diamond
+Shape C1: arrow, Shape C2: star
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 638:
+Shape A1: plus, Shape A2: pentagon
+Shape C1: hexagon, Shape C2: diamond
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 639:
+Shape A1: triangle, Shape A2: ellipse
+Shape C1: pentagon, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 640:
+Shape A1: pentagon, Shape A2: ellipse
+Shape C1: star, Shape C2: rectangle
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 641:
+Shape A1: hexagon, Shape A2: plus
+Shape C1: diamond, Shape C2: arrow
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 642:
+Shape A1: pentagon, Shape A2: plus
+Shape C1: arrow, Shape C2: hexagon
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 643:
+Shape A1: arrow, Shape A2: star
+Shape C1: plus, Shape C2: pentagon
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 644:
+Shape A1: hexagon, Shape A2: star
+Shape C1: triangle, Shape C2: pentagon
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 645:
+Shape A1: hexagon, Shape A2: arrow
+Shape C1: pentagon, Shape C2: plus
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 646:
+Shape A1: rectangle, Shape A2: pentagon
+Shape C1: ellipse, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 647:
+Shape A1: ellipse, Shape A2: pentagon
+Shape C1: plus, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 648:
+Shape A1: hexagon, Shape A2: diamond
+Shape C1: pentagon, Shape C2: plus
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 649:
+Shape A1: ellipse, Shape A2: plus
+Shape C1: star, Shape C2: arrow
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 650:
+Shape A1: rectangle, Shape A2: diamond
+Shape C1: pentagon, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 651:
+Shape A1: plus, Shape A2: pentagon
+Shape C1: diamond, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 652:
+Shape A1: arrow, Shape A2: hexagon
+Shape C1: rectangle, Shape C2: pentagon
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 653:
+Shape A1: plus, Shape A2: arrow
+Shape C1: hexagon, Shape C2: ellipse
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 654:
+Shape A1: rectangle, Shape A2: arrow
+Shape C1: diamond, Shape C2: triangle
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 655:
+Shape A1: arrow, Shape A2: pentagon
+Shape C1: star, Shape C2: ellipse
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 656:
+Shape A1: ellipse, Shape A2: triangle
+Shape C1: pentagon, Shape C2: diamond
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 657:
+Shape A1: ellipse, Shape A2: pentagon
+Shape C1: hexagon, Shape C2: rectangle
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 658:
+Shape A1: plus, Shape A2: arrow
+Shape C1: triangle, Shape C2: pentagon
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 659:
+Shape A1: rectangle, Shape A2: arrow
+Shape C1: star, Shape C2: plus
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_down
+
+Problem 660:
+Shape A1: triangle, Shape A2: star
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: scale_up
+
+Problem 661:
+Shape A1: star, Shape A2: pentagon
+Shape C1: ellipse, Shape C2: arrow
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 662:
+Shape A1: diamond, Shape A2: plus
+Shape C1: star, Shape C2: arrow
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 663:
+Shape A1: diamond, Shape A2: plus
+Shape C1: triangle, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 664:
+Shape A1: ellipse, Shape A2: pentagon
+Shape C1: diamond, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 665:
+Shape A1: pentagon, Shape A2: triangle
+Shape C1: rectangle, Shape C2: star
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 666:
+Shape A1: triangle, Shape A2: arrow
+Shape C1: star, Shape C2: diamond
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 667:
+Shape A1: triangle, Shape A2: ellipse
+Shape C1: hexagon, Shape C2: pentagon
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 668:
+Shape A1: rectangle, Shape A2: plus
+Shape C1: triangle, Shape C2: arrow
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 669:
+Shape A1: triangle, Shape A2: diamond
+Shape C1: arrow, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 670:
+Shape A1: ellipse, Shape A2: hexagon
+Shape C1: pentagon, Shape C2: arrow
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 671:
+Shape A1: star, Shape A2: ellipse
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 672:
+Shape A1: plus, Shape A2: hexagon
+Shape C1: rectangle, Shape C2: arrow
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 673:
+Shape A1: pentagon, Shape A2: triangle
+Shape C1: plus, Shape C2: diamond
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 674:
+Shape A1: pentagon, Shape A2: diamond
+Shape C1: ellipse, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 675:
+Shape A1: diamond, Shape A2: arrow
+Shape C1: triangle, Shape C2: plus
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: flip_fill
+
+Problem 676:
+Shape A1: diamond, Shape A2: star
+Shape C1: hexagon, Shape C2: ellipse
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 677:
+Shape A1: diamond, Shape A2: ellipse
+Shape C1: hexagon, Shape C2: triangle
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 678:
+Shape A1: arrow, Shape A2: diamond
+Shape C1: rectangle, Shape C2: triangle
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 679:
+Shape A1: arrow, Shape A2: hexagon
+Shape C1: rectangle, Shape C2: star
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: scale_up
+
+Problem 680:
+Shape A1: triangle, Shape A2: hexagon
+Shape C1: ellipse, Shape C2: plus
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 681:
+Shape A1: hexagon, Shape A2: rectangle
+Shape C1: pentagon, Shape C2: plus
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 682:
+Shape A1: diamond, Shape A2: pentagon
+Shape C1: ellipse, Shape C2: arrow
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 683:
+Shape A1: ellipse, Shape A2: star
+Shape C1: rectangle, Shape C2: hexagon
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 684:
+Shape A1: star, Shape A2: arrow
+Shape C1: triangle, Shape C2: pentagon
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 685:
+Shape A1: rectangle, Shape A2: hexagon
+Shape C1: ellipse, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 686:
+Shape A1: ellipse, Shape A2: diamond
+Shape C1: plus, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 687:
+Shape A1: star, Shape A2: rectangle
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 688:
+Shape A1: plus, Shape A2: diamond
+Shape C1: arrow, Shape C2: hexagon
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 689:
+Shape A1: pentagon, Shape A2: diamond
+Shape C1: plus, Shape C2: triangle
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 690:
+Shape A1: rectangle, Shape A2: ellipse
+Shape C1: triangle, Shape C2: plus
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 691:
+Shape A1: rectangle, Shape A2: plus
+Shape C1: diamond, Shape C2: pentagon
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 692:
+Shape A1: diamond, Shape A2: star
+Shape C1: plus, Shape C2: arrow
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 693:
+Shape A1: ellipse, Shape A2: diamond
+Shape C1: pentagon, Shape C2: triangle
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 694:
+Shape A1: star, Shape A2: triangle
+Shape C1: pentagon, Shape C2: hexagon
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 695:
+Shape A1: plus, Shape A2: ellipse
+Shape C1: diamond, Shape C2: arrow
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 696:
+Shape A1: star, Shape A2: plus
+Shape C1: rectangle, Shape C2: ellipse
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 697:
+Shape A1: plus, Shape A2: hexagon
+Shape C1: ellipse, Shape C2: arrow
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 698:
+Shape A1: star, Shape A2: pentagon
+Shape C1: diamond, Shape C2: plus
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 699:
+Shape A1: pentagon, Shape A2: diamond
+Shape C1: rectangle, Shape C2: triangle
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 700:
+Shape A1: hexagon, Shape A2: pentagon
+Shape C1: ellipse, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 701:
+Shape A1: triangle, Shape A2: ellipse
+Shape C1: hexagon, Shape C2: pentagon
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 702:
+Shape A1: ellipse, Shape A2: pentagon
+Shape C1: arrow, Shape C2: plus
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 703:
+Shape A1: triangle, Shape A2: arrow
+Shape C1: plus, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 704:
+Shape A1: diamond, Shape A2: pentagon
+Shape C1: hexagon, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 705:
+Shape A1: ellipse, Shape A2: diamond
+Shape C1: triangle, Shape C2: plus
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: flip_fill
+
+Problem 706:
+Shape A1: star, Shape A2: ellipse
+Shape C1: diamond, Shape C2: plus
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 707:
+Shape A1: triangle, Shape A2: plus
+Shape C1: hexagon, Shape C2: arrow
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 708:
+Shape A1: arrow, Shape A2: star
+Shape C1: diamond, Shape C2: pentagon
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 709:
+Shape A1: pentagon, Shape A2: star
+Shape C1: triangle, Shape C2: ellipse
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: scale_up
+
+Problem 710:
+Shape A1: plus, Shape A2: triangle
+Shape C1: pentagon, Shape C2: arrow
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 711:
+Shape A1: hexagon, Shape A2: pentagon
+Shape C1: ellipse, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 712:
+Shape A1: star, Shape A2: diamond
+Shape C1: arrow, Shape C2: plus
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 713:
+Shape A1: ellipse, Shape A2: hexagon
+Shape C1: diamond, Shape C2: pentagon
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 714:
+Shape A1: pentagon, Shape A2: arrow
+Shape C1: hexagon, Shape C2: triangle
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 715:
+Shape A1: star, Shape A2: diamond
+Shape C1: triangle, Shape C2: pentagon
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 716:
+Shape A1: plus, Shape A2: triangle
+Shape C1: diamond, Shape C2: ellipse
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 717:
+Shape A1: triangle, Shape A2: pentagon
+Shape C1: star, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 718:
+Shape A1: star, Shape A2: pentagon
+Shape C1: hexagon, Shape C2: arrow
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: flip_fill
+
+Problem 719:
+Shape A1: pentagon, Shape A2: ellipse
+Shape C1: rectangle, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 720:
+Shape A1: diamond, Shape A2: star
+Shape C1: rectangle, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 721:
+Shape A1: rectangle, Shape A2: triangle
+Shape C1: arrow, Shape C2: diamond
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 722:
+Shape A1: rectangle, Shape A2: star
+Shape C1: arrow, Shape C2: diamond
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 723:
+Shape A1: pentagon, Shape A2: rectangle
+Shape C1: hexagon, Shape C2: triangle
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 724:
+Shape A1: ellipse, Shape A2: star
+Shape C1: pentagon, Shape C2: plus
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 725:
+Shape A1: rectangle, Shape A2: plus
+Shape C1: pentagon, Shape C2: triangle
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 726:
+Shape A1: pentagon, Shape A2: plus
+Shape C1: star, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 727:
+Shape A1: star, Shape A2: arrow
+Shape C1: triangle, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 728:
+Shape A1: arrow, Shape A2: plus
+Shape C1: pentagon, Shape C2: diamond
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 729:
+Shape A1: rectangle, Shape A2: triangle
+Shape C1: diamond, Shape C2: ellipse
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 730:
+Shape A1: ellipse, Shape A2: hexagon
+Shape C1: triangle, Shape C2: star
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 731:
+Shape A1: triangle, Shape A2: rectangle
+Shape C1: ellipse, Shape C2: plus
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_down
+
+Problem 732:
+Shape A1: ellipse, Shape A2: rectangle
+Shape C1: hexagon, Shape C2: triangle
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 733:
+Shape A1: arrow, Shape A2: hexagon
+Shape C1: pentagon, Shape C2: diamond
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 734:
+Shape A1: rectangle, Shape A2: triangle
+Shape C1: hexagon, Shape C2: pentagon
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 735:
+Shape A1: plus, Shape A2: diamond
+Shape C1: ellipse, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: flip_fill
+
+Problem 736:
+Shape A1: arrow, Shape A2: diamond
+Shape C1: rectangle, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 737:
+Shape A1: ellipse, Shape A2: star
+Shape C1: hexagon, Shape C2: arrow
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 738:
+Shape A1: plus, Shape A2: arrow
+Shape C1: rectangle, Shape C2: diamond
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 739:
+Shape A1: ellipse, Shape A2: plus
+Shape C1: star, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 740:
+Shape A1: plus, Shape A2: star
+Shape C1: arrow, Shape C2: triangle
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 741:
+Shape A1: rectangle, Shape A2: star
+Shape C1: diamond, Shape C2: pentagon
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 742:
+Shape A1: pentagon, Shape A2: diamond
+Shape C1: rectangle, Shape C2: arrow
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 743:
+Shape A1: star, Shape A2: ellipse
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 744:
+Shape A1: rectangle, Shape A2: arrow
+Shape C1: hexagon, Shape C2: ellipse
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 745:
+Shape A1: diamond, Shape A2: ellipse
+Shape C1: star, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 746:
+Shape A1: arrow, Shape A2: diamond
+Shape C1: rectangle, Shape C2: star
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 747:
+Shape A1: hexagon, Shape A2: rectangle
+Shape C1: pentagon, Shape C2: diamond
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 748:
+Shape A1: pentagon, Shape A2: rectangle
+Shape C1: arrow, Shape C2: diamond
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 749:
+Shape A1: arrow, Shape A2: hexagon
+Shape C1: rectangle, Shape C2: pentagon
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 750:
+Shape A1: plus, Shape A2: arrow
+Shape C1: ellipse, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 751:
+Shape A1: triangle, Shape A2: plus
+Shape C1: diamond, Shape C2: ellipse
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 752:
+Shape A1: ellipse, Shape A2: hexagon
+Shape C1: rectangle, Shape C2: arrow
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 753:
+Shape A1: triangle, Shape A2: rectangle
+Shape C1: diamond, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 754:
+Shape A1: arrow, Shape A2: plus
+Shape C1: star, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 755:
+Shape A1: pentagon, Shape A2: star
+Shape C1: ellipse, Shape C2: rectangle
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 756:
+Shape A1: hexagon, Shape A2: plus
+Shape C1: star, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 757:
+Shape A1: hexagon, Shape A2: plus
+Shape C1: pentagon, Shape C2: ellipse
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_down
+
+Problem 758:
+Shape A1: rectangle, Shape A2: arrow
+Shape C1: ellipse, Shape C2: plus
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: flip_fill
+
+Problem 759:
+Shape A1: ellipse, Shape A2: hexagon
+Shape C1: plus, Shape C2: pentagon
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 760:
+Shape A1: diamond, Shape A2: hexagon
+Shape C1: star, Shape C2: plus
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 761:
+Shape A1: pentagon, Shape A2: ellipse
+Shape C1: hexagon, Shape C2: arrow
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 762:
+Shape A1: hexagon, Shape A2: arrow
+Shape C1: star, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 763:
+Shape A1: arrow, Shape A2: plus
+Shape C1: hexagon, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 764:
+Shape A1: arrow, Shape A2: diamond
+Shape C1: rectangle, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 765:
+Shape A1: star, Shape A2: triangle
+Shape C1: pentagon, Shape C2: ellipse
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 766:
+Shape A1: star, Shape A2: hexagon
+Shape C1: plus, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 767:
+Shape A1: arrow, Shape A2: triangle
+Shape C1: diamond, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 768:
+Shape A1: star, Shape A2: diamond
+Shape C1: arrow, Shape C2: ellipse
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 769:
+Shape A1: plus, Shape A2: pentagon
+Shape C1: rectangle, Shape C2: triangle
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: flip_fill
+
+Problem 770:
+Shape A1: pentagon, Shape A2: ellipse
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 771:
+Shape A1: arrow, Shape A2: triangle
+Shape C1: rectangle, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 772:
+Shape A1: arrow, Shape A2: rectangle
+Shape C1: hexagon, Shape C2: plus
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 773:
+Shape A1: arrow, Shape A2: rectangle
+Shape C1: pentagon, Shape C2: hexagon
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 774:
+Shape A1: plus, Shape A2: hexagon
+Shape C1: rectangle, Shape C2: star
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 775:
+Shape A1: pentagon, Shape A2: star
+Shape C1: rectangle, Shape C2: triangle
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: scale_up
+
+Problem 776:
+Shape A1: ellipse, Shape A2: plus
+Shape C1: triangle, Shape C2: arrow
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 777:
+Shape A1: arrow, Shape A2: hexagon
+Shape C1: triangle, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 778:
+Shape A1: ellipse, Shape A2: pentagon
+Shape C1: diamond, Shape C2: arrow
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 779:
+Shape A1: plus, Shape A2: arrow
+Shape C1: diamond, Shape C2: ellipse
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 780:
+Shape A1: star, Shape A2: ellipse
+Shape C1: arrow, Shape C2: triangle
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 781:
+Shape A1: star, Shape A2: hexagon
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 782:
+Shape A1: hexagon, Shape A2: rectangle
+Shape C1: arrow, Shape C2: pentagon
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 783:
+Shape A1: ellipse, Shape A2: diamond
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 784:
+Shape A1: hexagon, Shape A2: plus
+Shape C1: triangle, Shape C2: diamond
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 785:
+Shape A1: triangle, Shape A2: rectangle
+Shape C1: plus, Shape C2: diamond
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 786:
+Shape A1: hexagon, Shape A2: rectangle
+Shape C1: triangle, Shape C2: pentagon
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 787:
+Shape A1: plus, Shape A2: arrow
+Shape C1: rectangle, Shape C2: star
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 788:
+Shape A1: triangle, Shape A2: star
+Shape C1: plus, Shape C2: arrow
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 789:
+Shape A1: plus, Shape A2: star
+Shape C1: ellipse, Shape C2: triangle
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 790:
+Shape A1: ellipse, Shape A2: pentagon
+Shape C1: hexagon, Shape C2: diamond
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: flip_fill
+
+Problem 791:
+Shape A1: pentagon, Shape A2: diamond
+Shape C1: triangle, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 792:
+Shape A1: ellipse, Shape A2: plus
+Shape C1: star, Shape C2: diamond
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 793:
+Shape A1: triangle, Shape A2: rectangle
+Shape C1: diamond, Shape C2: plus
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 794:
+Shape A1: pentagon, Shape A2: plus
+Shape C1: triangle, Shape C2: arrow
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 795:
+Shape A1: hexagon, Shape A2: star
+Shape C1: arrow, Shape C2: pentagon
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 796:
+Shape A1: triangle, Shape A2: plus
+Shape C1: rectangle, Shape C2: ellipse
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 797:
+Shape A1: star, Shape A2: arrow
+Shape C1: diamond, Shape C2: plus
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 798:
+Shape A1: rectangle, Shape A2: plus
+Shape C1: star, Shape C2: pentagon
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: flip_fill
+
+Problem 799:
+Shape A1: rectangle, Shape A2: diamond
+Shape C1: triangle, Shape C2: arrow
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 800:
+Shape A1: ellipse, Shape A2: rectangle
+Shape C1: star, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 801:
+Shape A1: hexagon, Shape A2: pentagon
+Shape C1: triangle, Shape C2: star
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 802:
+Shape A1: arrow, Shape A2: pentagon
+Shape C1: rectangle, Shape C2: star
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: flip_fill
+
+Problem 803:
+Shape A1: plus, Shape A2: hexagon
+Shape C1: triangle, Shape C2: diamond
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 804:
+Shape A1: arrow, Shape A2: pentagon
+Shape C1: plus, Shape C2: diamond
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 805:
+Shape A1: plus, Shape A2: arrow
+Shape C1: hexagon, Shape C2: star
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 806:
+Shape A1: rectangle, Shape A2: star
+Shape C1: triangle, Shape C2: pentagon
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_down
+
+Problem 807:
+Shape A1: arrow, Shape A2: ellipse
+Shape C1: star, Shape C2: rectangle
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 808:
+Shape A1: star, Shape A2: hexagon
+Shape C1: triangle, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 809:
+Shape A1: rectangle, Shape A2: ellipse
+Shape C1: diamond, Shape C2: pentagon
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 810:
+Shape A1: rectangle, Shape A2: pentagon
+Shape C1: plus, Shape C2: arrow
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 811:
+Shape A1: diamond, Shape A2: ellipse
+Shape C1: arrow, Shape C2: triangle
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 812:
+Shape A1: hexagon, Shape A2: star
+Shape C1: triangle, Shape C2: arrow
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 813:
+Shape A1: plus, Shape A2: hexagon
+Shape C1: rectangle, Shape C2: ellipse
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 814:
+Shape A1: ellipse, Shape A2: arrow
+Shape C1: plus, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 815:
+Shape A1: star, Shape A2: plus
+Shape C1: triangle, Shape C2: pentagon
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 816:
+Shape A1: pentagon, Shape A2: arrow
+Shape C1: star, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: flip_fill
+
+Problem 817:
+Shape A1: diamond, Shape A2: pentagon
+Shape C1: arrow, Shape C2: plus
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 818:
+Shape A1: ellipse, Shape A2: arrow
+Shape C1: star, Shape C2: rectangle
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 819:
+Shape A1: ellipse, Shape A2: hexagon
+Shape C1: star, Shape C2: rectangle
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 820:
+Shape A1: star, Shape A2: ellipse
+Shape C1: triangle, Shape C2: arrow
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 821:
+Shape A1: rectangle, Shape A2: plus
+Shape C1: diamond, Shape C2: ellipse
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 822:
+Shape A1: star, Shape A2: arrow
+Shape C1: pentagon, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 823:
+Shape A1: hexagon, Shape A2: star
+Shape C1: plus, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 824:
+Shape A1: ellipse, Shape A2: diamond
+Shape C1: triangle, Shape C2: rectangle
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 825:
+Shape A1: star, Shape A2: hexagon
+Shape C1: triangle, Shape C2: ellipse
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 826:
+Shape A1: hexagon, Shape A2: ellipse
+Shape C1: plus, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 827:
+Shape A1: triangle, Shape A2: rectangle
+Shape C1: diamond, Shape C2: ellipse
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 828:
+Shape A1: pentagon, Shape A2: ellipse
+Shape C1: diamond, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 829:
+Shape A1: diamond, Shape A2: arrow
+Shape C1: hexagon, Shape C2: triangle
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 830:
+Shape A1: arrow, Shape A2: diamond
+Shape C1: rectangle, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 831:
+Shape A1: hexagon, Shape A2: ellipse
+Shape C1: diamond, Shape C2: rectangle
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 832:
+Shape A1: triangle, Shape A2: rectangle
+Shape C1: pentagon, Shape C2: star
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 833:
+Shape A1: pentagon, Shape A2: diamond
+Shape C1: hexagon, Shape C2: star
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 834:
+Shape A1: arrow, Shape A2: hexagon
+Shape C1: diamond, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 835:
+Shape A1: rectangle, Shape A2: pentagon
+Shape C1: triangle, Shape C2: diamond
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_up
+
+Problem 836:
+Shape A1: diamond, Shape A2: ellipse
+Shape C1: arrow, Shape C2: plus
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 837:
+Shape A1: arrow, Shape A2: rectangle
+Shape C1: triangle, Shape C2: pentagon
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 838:
+Shape A1: triangle, Shape A2: diamond
+Shape C1: star, Shape C2: arrow
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 839:
+Shape A1: ellipse, Shape A2: pentagon
+Shape C1: star, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 840:
+Shape A1: hexagon, Shape A2: arrow
+Shape C1: star, Shape C2: diamond
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 841:
+Shape A1: hexagon, Shape A2: diamond
+Shape C1: star, Shape C2: plus
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 842:
+Shape A1: rectangle, Shape A2: arrow
+Shape C1: pentagon, Shape C2: triangle
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 843:
+Shape A1: pentagon, Shape A2: ellipse
+Shape C1: star, Shape C2: hexagon
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 844:
+Shape A1: rectangle, Shape A2: hexagon
+Shape C1: triangle, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 845:
+Shape A1: triangle, Shape A2: arrow
+Shape C1: hexagon, Shape C2: star
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 846:
+Shape A1: diamond, Shape A2: arrow
+Shape C1: hexagon, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 847:
+Shape A1: hexagon, Shape A2: diamond
+Shape C1: rectangle, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 848:
+Shape A1: star, Shape A2: plus
+Shape C1: pentagon, Shape C2: diamond
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 849:
+Shape A1: arrow, Shape A2: triangle
+Shape C1: plus, Shape C2: ellipse
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 850:
+Shape A1: pentagon, Shape A2: hexagon
+Shape C1: diamond, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 851:
+Shape A1: plus, Shape A2: star
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 852:
+Shape A1: diamond, Shape A2: arrow
+Shape C1: triangle, Shape C2: plus
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 853:
+Shape A1: pentagon, Shape A2: plus
+Shape C1: ellipse, Shape C2: diamond
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 854:
+Shape A1: diamond, Shape A2: ellipse
+Shape C1: triangle, Shape C2: plus
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 855:
+Shape A1: star, Shape A2: ellipse
+Shape C1: diamond, Shape C2: arrow
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 856:
+Shape A1: star, Shape A2: ellipse
+Shape C1: plus, Shape C2: triangle
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_down
+
+Problem 857:
+Shape A1: plus, Shape A2: hexagon
+Shape C1: diamond, Shape C2: rectangle
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_down
+
+Problem 858:
+Shape A1: rectangle, Shape A2: plus
+Shape C1: hexagon, Shape C2: triangle
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 859:
+Shape A1: hexagon, Shape A2: pentagon
+Shape C1: diamond, Shape C2: triangle
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 860:
+Shape A1: arrow, Shape A2: pentagon
+Shape C1: hexagon, Shape C2: star
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 861:
+Shape A1: pentagon, Shape A2: hexagon
+Shape C1: diamond, Shape C2: plus
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 862:
+Shape A1: star, Shape A2: plus
+Shape C1: arrow, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 863:
+Shape A1: diamond, Shape A2: pentagon
+Shape C1: arrow, Shape C2: ellipse
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 864:
+Shape A1: plus, Shape A2: hexagon
+Shape C1: triangle, Shape C2: star
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 865:
+Shape A1: ellipse, Shape A2: pentagon
+Shape C1: diamond, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 866:
+Shape A1: plus, Shape A2: pentagon
+Shape C1: triangle, Shape C2: ellipse
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 867:
+Shape A1: plus, Shape A2: pentagon
+Shape C1: arrow, Shape C2: star
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 868:
+Shape A1: arrow, Shape A2: hexagon
+Shape C1: plus, Shape C2: ellipse
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 869:
+Shape A1: diamond, Shape A2: hexagon
+Shape C1: plus, Shape C2: arrow
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 870:
+Shape A1: ellipse, Shape A2: rectangle
+Shape C1: pentagon, Shape C2: arrow
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 871:
+Shape A1: hexagon, Shape A2: plus
+Shape C1: arrow, Shape C2: diamond
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 872:
+Shape A1: triangle, Shape A2: arrow
+Shape C1: diamond, Shape C2: ellipse
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: flip_fill
+
+Problem 873:
+Shape A1: ellipse, Shape A2: arrow
+Shape C1: star, Shape C2: hexagon
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 874:
+Shape A1: star, Shape A2: plus
+Shape C1: arrow, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 875:
+Shape A1: hexagon, Shape A2: rectangle
+Shape C1: plus, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 876:
+Shape A1: hexagon, Shape A2: diamond
+Shape C1: ellipse, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 877:
+Shape A1: arrow, Shape A2: diamond
+Shape C1: star, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: flip_fill
+
+Problem 878:
+Shape A1: arrow, Shape A2: diamond
+Shape C1: ellipse, Shape C2: plus
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: scale_up
+
+Problem 879:
+Shape A1: diamond, Shape A2: plus
+Shape C1: arrow, Shape C2: star
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 880:
+Shape A1: pentagon, Shape A2: hexagon
+Shape C1: diamond, Shape C2: plus
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 881:
+Shape A1: pentagon, Shape A2: ellipse
+Shape C1: plus, Shape C2: star
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 882:
+Shape A1: triangle, Shape A2: ellipse
+Shape C1: rectangle, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 883:
+Shape A1: hexagon, Shape A2: plus
+Shape C1: diamond, Shape C2: star
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 884:
+Shape A1: arrow, Shape A2: ellipse
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 885:
+Shape A1: plus, Shape A2: rectangle
+Shape C1: ellipse, Shape C2: arrow
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 886:
+Shape A1: plus, Shape A2: triangle
+Shape C1: hexagon, Shape C2: arrow
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 887:
+Shape A1: ellipse, Shape A2: rectangle
+Shape C1: triangle, Shape C2: pentagon
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 888:
+Shape A1: ellipse, Shape A2: diamond
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 889:
+Shape A1: hexagon, Shape A2: star
+Shape C1: ellipse, Shape C2: arrow
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 890:
+Shape A1: arrow, Shape A2: triangle
+Shape C1: diamond, Shape C2: hexagon
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 891:
+Shape A1: hexagon, Shape A2: pentagon
+Shape C1: triangle, Shape C2: ellipse
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: scale_up
+
+Problem 892:
+Shape A1: hexagon, Shape A2: diamond
+Shape C1: triangle, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 893:
+Shape A1: rectangle, Shape A2: pentagon
+Shape C1: hexagon, Shape C2: arrow
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 894:
+Shape A1: pentagon, Shape A2: diamond
+Shape C1: hexagon, Shape C2: ellipse
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 895:
+Shape A1: arrow, Shape A2: diamond
+Shape C1: triangle, Shape C2: star
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: flip_fill
+
+Problem 896:
+Shape A1: diamond, Shape A2: ellipse
+Shape C1: star, Shape C2: hexagon
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 897:
+Shape A1: pentagon, Shape A2: star
+Shape C1: hexagon, Shape C2: plus
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 898:
+Shape A1: ellipse, Shape A2: rectangle
+Shape C1: arrow, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 899:
+Shape A1: diamond, Shape A2: pentagon
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 900:
+Shape A1: pentagon, Shape A2: arrow
+Shape C1: plus, Shape C2: hexagon
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 901:
+Shape A1: plus, Shape A2: triangle
+Shape C1: hexagon, Shape C2: star
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 902:
+Shape A1: diamond, Shape A2: star
+Shape C1: ellipse, Shape C2: plus
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 903:
+Shape A1: rectangle, Shape A2: plus
+Shape C1: arrow, Shape C2: triangle
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 904:
+Shape A1: diamond, Shape A2: hexagon
+Shape C1: triangle, Shape C2: plus
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 905:
+Shape A1: diamond, Shape A2: arrow
+Shape C1: star, Shape C2: rectangle
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 906:
+Shape A1: star, Shape A2: diamond
+Shape C1: rectangle, Shape C2: arrow
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 907:
+Shape A1: star, Shape A2: pentagon
+Shape C1: hexagon, Shape C2: triangle
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: flip_fill
+
+Problem 908:
+Shape A1: triangle, Shape A2: arrow
+Shape C1: plus, Shape C2: diamond
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 909:
+Shape A1: hexagon, Shape A2: star
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 910:
+Shape A1: arrow, Shape A2: star
+Shape C1: pentagon, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 911:
+Shape A1: pentagon, Shape A2: diamond
+Shape C1: rectangle, Shape C2: arrow
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 912:
+Shape A1: pentagon, Shape A2: hexagon
+Shape C1: ellipse, Shape C2: rectangle
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 913:
+Shape A1: star, Shape A2: hexagon
+Shape C1: arrow, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 914:
+Shape A1: rectangle, Shape A2: diamond
+Shape C1: star, Shape C2: plus
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 915:
+Shape A1: star, Shape A2: pentagon
+Shape C1: plus, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 916:
+Shape A1: triangle, Shape A2: hexagon
+Shape C1: plus, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 917:
+Shape A1: pentagon, Shape A2: diamond
+Shape C1: ellipse, Shape C2: plus
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 918:
+Shape A1: ellipse, Shape A2: plus
+Shape C1: arrow, Shape C2: diamond
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 919:
+Shape A1: hexagon, Shape A2: pentagon
+Shape C1: arrow, Shape C2: star
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 920:
+Shape A1: ellipse, Shape A2: pentagon
+Shape C1: arrow, Shape C2: diamond
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 921:
+Shape A1: triangle, Shape A2: hexagon
+Shape C1: arrow, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 922:
+Shape A1: ellipse, Shape A2: hexagon
+Shape C1: plus, Shape C2: pentagon
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_down
+
+Problem 923:
+Shape A1: rectangle, Shape A2: plus
+Shape C1: star, Shape C2: triangle
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 924:
+Shape A1: pentagon, Shape A2: triangle
+Shape C1: rectangle, Shape C2: plus
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: flip_fill
+
+Problem 925:
+Shape A1: diamond, Shape A2: ellipse
+Shape C1: hexagon, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 926:
+Shape A1: star, Shape A2: ellipse
+Shape C1: hexagon, Shape C2: plus
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 927:
+Shape A1: diamond, Shape A2: arrow
+Shape C1: star, Shape C2: triangle
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 928:
+Shape A1: hexagon, Shape A2: pentagon
+Shape C1: diamond, Shape C2: plus
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 929:
+Shape A1: hexagon, Shape A2: ellipse
+Shape C1: rectangle, Shape C2: arrow
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 930:
+Shape A1: star, Shape A2: pentagon
+Shape C1: hexagon, Shape C2: ellipse
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 931:
+Shape A1: pentagon, Shape A2: plus
+Shape C1: triangle, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 932:
+Shape A1: arrow, Shape A2: rectangle
+Shape C1: hexagon, Shape C2: triangle
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 933:
+Shape A1: star, Shape A2: arrow
+Shape C1: pentagon, Shape C2: diamond
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: flip_fill
+
+Problem 934:
+Shape A1: arrow, Shape A2: star
+Shape C1: diamond, Shape C2: triangle
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 935:
+Shape A1: star, Shape A2: rectangle
+Shape C1: plus, Shape C2: diamond
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 936:
+Shape A1: star, Shape A2: plus
+Shape C1: arrow, Shape C2: diamond
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 937:
+Shape A1: rectangle, Shape A2: triangle
+Shape C1: plus, Shape C2: star
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 938:
+Shape A1: star, Shape A2: plus
+Shape C1: rectangle, Shape C2: ellipse
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 939:
+Shape A1: pentagon, Shape A2: plus
+Shape C1: star, Shape C2: diamond
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: scale_up
+
+Problem 940:
+Shape A1: hexagon, Shape A2: diamond
+Shape C1: ellipse, Shape C2: triangle
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 941:
+Shape A1: rectangle, Shape A2: arrow
+Shape C1: pentagon, Shape C2: ellipse
+Transformation 1: flip_fill
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 942:
+Shape A1: plus, Shape A2: triangle
+Shape C1: hexagon, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_up
+
+Problem 943:
+Shape A1: plus, Shape A2: triangle
+Shape C1: arrow, Shape C2: pentagon
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: flip_fill
+
+Problem 944:
+Shape A1: plus, Shape A2: pentagon
+Shape C1: arrow, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: rotate_counterclockwise by 45 degrees
+
+Problem 945:
+Shape A1: diamond, Shape A2: pentagon
+Shape C1: hexagon, Shape C2: rectangle
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_up
+
+Problem 946:
+Shape A1: plus, Shape A2: pentagon
+Shape C1: rectangle, Shape C2: arrow
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 947:
+Shape A1: rectangle, Shape A2: triangle
+Shape C1: star, Shape C2: diamond
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 948:
+Shape A1: arrow, Shape A2: star
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 949:
+Shape A1: rectangle, Shape A2: triangle
+Shape C1: ellipse, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 950:
+Shape A1: triangle, Shape A2: rectangle
+Shape C1: plus, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 180 degrees
+Transformation 2: scale_down
+
+Problem 951:
+Shape A1: star, Shape A2: hexagon
+Shape C1: triangle, Shape C2: pentagon
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 952:
+Shape A1: star, Shape A2: rectangle
+Shape C1: plus, Shape C2: triangle
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 953:
+Shape A1: arrow, Shape A2: pentagon
+Shape C1: triangle, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 954:
+Shape A1: star, Shape A2: rectangle
+Shape C1: diamond, Shape C2: arrow
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 955:
+Shape A1: ellipse, Shape A2: plus
+Shape C1: rectangle, Shape C2: star
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 956:
+Shape A1: diamond, Shape A2: hexagon
+Shape C1: ellipse, Shape C2: plus
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 957:
+Shape A1: triangle, Shape A2: pentagon
+Shape C1: hexagon, Shape C2: rectangle
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_up
+
+Problem 958:
+Shape A1: plus, Shape A2: arrow
+Shape C1: pentagon, Shape C2: hexagon
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 959:
+Shape A1: diamond, Shape A2: rectangle
+Shape C1: plus, Shape C2: ellipse
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 960:
+Shape A1: hexagon, Shape A2: star
+Shape C1: arrow, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 961:
+Shape A1: hexagon, Shape A2: diamond
+Shape C1: arrow, Shape C2: ellipse
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 962:
+Shape A1: hexagon, Shape A2: ellipse
+Shape C1: plus, Shape C2: star
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 963:
+Shape A1: hexagon, Shape A2: rectangle
+Shape C1: triangle, Shape C2: ellipse
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: flip_fill
+
+Problem 964:
+Shape A1: star, Shape A2: diamond
+Shape C1: ellipse, Shape C2: arrow
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 965:
+Shape A1: diamond, Shape A2: arrow
+Shape C1: rectangle, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 966:
+Shape A1: arrow, Shape A2: star
+Shape C1: hexagon, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 967:
+Shape A1: rectangle, Shape A2: pentagon
+Shape C1: triangle, Shape C2: ellipse
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 968:
+Shape A1: star, Shape A2: triangle
+Shape C1: diamond, Shape C2: ellipse
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 969:
+Shape A1: triangle, Shape A2: rectangle
+Shape C1: star, Shape C2: plus
+Transformation 1: rotate_clockwise by 90 degrees
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 970:
+Shape A1: rectangle, Shape A2: ellipse
+Shape C1: hexagon, Shape C2: arrow
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_up
+
+Problem 971:
+Shape A1: ellipse, Shape A2: pentagon
+Shape C1: diamond, Shape C2: plus
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 972:
+Shape A1: hexagon, Shape A2: ellipse
+Shape C1: diamond, Shape C2: arrow
+Transformation 1: scale_up
+Transformation 2: scale_down
+
+Problem 973:
+Shape A1: triangle, Shape A2: diamond
+Shape C1: hexagon, Shape C2: plus
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: rotate_clockwise by 45 degrees
+
+Problem 974:
+Shape A1: diamond, Shape A2: rectangle
+Shape C1: plus, Shape C2: triangle
+Transformation 1: scale_down
+Transformation 2: scale_up
+
+Problem 975:
+Shape A1: rectangle, Shape A2: triangle
+Shape C1: diamond, Shape C2: plus
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 976:
+Shape A1: plus, Shape A2: pentagon
+Shape C1: hexagon, Shape C2: ellipse
+Transformation 1: flip_fill
+Transformation 2: rotate_clockwise by 90 degrees
+
+Problem 977:
+Shape A1: arrow, Shape A2: rectangle
+Shape C1: hexagon, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 978:
+Shape A1: triangle, Shape A2: star
+Shape C1: diamond, Shape C2: ellipse
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 90 degrees
+
+Problem 979:
+Shape A1: diamond, Shape A2: triangle
+Shape C1: plus, Shape C2: rectangle
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 980:
+Shape A1: plus, Shape A2: ellipse
+Shape C1: arrow, Shape C2: diamond
+Transformation 1: rotate_counterclockwise by 135 degrees
+Transformation 2: scale_up
+
+Problem 981:
+Shape A1: ellipse, Shape A2: hexagon
+Shape C1: arrow, Shape C2: pentagon
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_up
+
+Problem 982:
+Shape A1: rectangle, Shape A2: diamond
+Shape C1: ellipse, Shape C2: pentagon
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 983:
+Shape A1: arrow, Shape A2: diamond
+Shape C1: pentagon, Shape C2: plus
+Transformation 1: scale_down
+Transformation 2: flip_fill
+
+Problem 984:
+Shape A1: plus, Shape A2: arrow
+Shape C1: diamond, Shape C2: pentagon
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 985:
+Shape A1: arrow, Shape A2: pentagon
+Shape C1: triangle, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 986:
+Shape A1: plus, Shape A2: pentagon
+Shape C1: ellipse, Shape C2: diamond
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 987:
+Shape A1: diamond, Shape A2: ellipse
+Shape C1: arrow, Shape C2: plus
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 988:
+Shape A1: rectangle, Shape A2: ellipse
+Shape C1: plus, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: flip_fill
+
+Problem 989:
+Shape A1: star, Shape A2: rectangle
+Shape C1: ellipse, Shape C2: plus
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: rotate_clockwise by 180 degrees
+
+Problem 990:
+Shape A1: ellipse, Shape A2: rectangle
+Shape C1: star, Shape C2: pentagon
+Transformation 1: rotate_counterclockwise by 180 degrees
+Transformation 2: flip_fill
+
+Problem 991:
+Shape A1: ellipse, Shape A2: triangle
+Shape C1: hexagon, Shape C2: arrow
+Transformation 1: scale_down
+Transformation 2: rotate_counterclockwise by 135 degrees
+
+Problem 992:
+Shape A1: hexagon, Shape A2: diamond
+Shape C1: star, Shape C2: rectangle
+Transformation 1: scale_up
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 993:
+Shape A1: hexagon, Shape A2: arrow
+Shape C1: rectangle, Shape C2: star
+Transformation 1: flip_fill
+Transformation 2: scale_down
+
+Problem 994:
+Shape A1: ellipse, Shape A2: pentagon
+Shape C1: plus, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 135 degrees
+Transformation 2: scale_down
+
+Problem 995:
+Shape A1: diamond, Shape A2: plus
+Shape C1: triangle, Shape C2: hexagon
+Transformation 1: rotate_counterclockwise by 90 degrees
+Transformation 2: scale_down
+
+Problem 996:
+Shape A1: hexagon, Shape A2: ellipse
+Shape C1: plus, Shape C2: diamond
+Transformation 1: rotate_counterclockwise by 45 degrees
+Transformation 2: scale_down
+
+Problem 997:
+Shape A1: plus, Shape A2: triangle
+Shape C1: rectangle, Shape C2: diamond
+Transformation 1: flip_fill
+Transformation 2: scale_up
+
+Problem 998:
+Shape A1: ellipse, Shape A2: rectangle
+Shape C1: plus, Shape C2: star
+Transformation 1: scale_up
+Transformation 2: rotate_counterclockwise by 180 degrees
+
+Problem 999:
+Shape A1: star, Shape A2: pentagon
+Shape C1: hexagon, Shape C2: triangle
+Transformation 1: scale_down
+Transformation 2: rotate_clockwise by 135 degrees
+
+Problem 1000:
+Shape A1: triangle, Shape A2: arrow
+Shape C1: ellipse, Shape C2: hexagon
+Transformation 1: rotate_clockwise by 45 degrees
+Transformation 2: flip_fill
+
